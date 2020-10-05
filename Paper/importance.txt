@@ -1,0 +1,7 @@
+LASSO - RIDGE CV LOG CASES:
+
+[(14.79958071, 'age_55_64', '-'), (10.12717474, 'ind_pro', '+'), (9.56676634, 'occ_sales', '+'), (9.46650696, 'poverty_65pl', '+'), (8.24240185, 'urate_male', '-'), (7.68787764, 'ind_const', '+'), (7.30433173, 'ind_agmining', '-'), (6.25936549, 'ind_educhealth', '-'), (4.74678917, 'educ_collpl', '-'), (4.6610742, 'race_black', '+')]
+
+LASSO - RIDGE CV LOG DEATHS:
+
+[(11.7287401, 'ind_pro', '+'), (9.5115487, 'age_55_64', '-'), (8.98145081, 'ind_transport', '-'), (8.47715207, 'HSdropout_male', '+'), (8.2323321, 'ind-public', '-'), (7.80469752, 'occ_transport', '-'), (7.43555758, 'ind_agmining', '-'), (6.92523098, 'urate_male', '-'), (5.63181471, 'race_nativeA', '+'), (5.35600979, 'poverty_65pl', '+')]

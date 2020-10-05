@@ -1,0 +1,1298 @@
+VA Station Number,Address,City,State,County FIPS
+vha_358,1501 Roxas Boulevard,Pasay City,PH,25011.0
+vha_402,1 VA Center,Augusta,ME,23011.0
+vha_402GA,163 Van Buren Road,Caribou,ME,23003.0
+vha_402GB,50 Union Street,Calais,ME,23029.0
+vha_402GC,431 Franklin Street,Rumford,ME,23017.0
+vha_402GD,655 Main Street,Saco,ME,23031.0
+vha_402GE,15 Challenger Drive,Lewiston,ME,23001.0
+vha_402GF,99 River Road,Lincoln,ME,23019.0
+vha_402HB,35 State Hospital Street,Bangor,ME,23019.0
+vha_402HC,144 Fore Street,Portland,ME,23005.0
+vha_402HL,241 Main Street,Bingham,ME,23025.0
+vha_402QA,197 East Main Street,Fort Kent,ME,23003.0
+vha_402QB,20 Hartford Street,Houlton,ME,23003.0
+vha_405,163 Veterans Drive,White River Junction,VT,50027.0
+vha_405GA,186 North Street,Bennington,VT,50003.0
+vha_405GC,71 GSP Drive,Brattleboro,VT,50025.0
+vha_405HA,128 Lakeside Avenue,Burlington,VT,50007.0
+vha_405HC,264 Cottage Street,Littleton,NH,33009.0
+vha_405HE,640 Marlboro Street,Keene,NH,33005.0
+vha_405HF,232 West Street,Rutland,VT,50021.0
+vha_405QB,1734 Crawford Farm Road,Newport,VT,50019.0
+vha_436,3687 Veterans Drive,Fort Harrison,MT,30049.0
+vha_436A4,210 South Winchester Avenue,Miles City,MT,30017.0
+vha_436GA,118 East 7th Street,Anaconda,MT,30023.0
+vha_436GB,1400 29th Street South,Great Falls,MT,30013.0
+vha_436GC,2687 Palmer Street,Missoula,MT,30063.0
+vha_436GD,300 North Willson Avenue,Bozeman,MT,30031.0
+vha_436GF,31 Three Mile Drive,Kalispell,MT,30029.0
+vha_436GH,1766 Majestic Lane,Billings,MT,30111.0
+vha_436GI,630 2nd Avenue South,Glasgow,MT,30105.0
+vha_436GK,2000 Montana Avenue,Glendive,MT,30021.0
+vha_436GL,8 Second Avenue Southeast,Cut Bank,MT,30035.0
+vha_436GM,629 Northeast Main Street,Lewistown,MT,30027.0
+vha_436GN,1775 Spring Creek Lane,Billings,MT,30111.0
+vha_436HC,130 13th Street,Havre,MT,30041.0
+vha_436QA,299 Fairgrounds Road,Hamilton,MT,30081.0
+vha_436QB,440 West Laurel Avenue,Plentywood,MT,30091.0
+vha_436QC,2271 Deerfield Lane,Helena,MT,30049.0
+vha_436QD,5535 Haul Road,Browning,MT,30035.0
+vha_437,2101 Elm Street North,Fargo,ND,38017.0
+vha_437GA,1319 West 11th Street,Grafton,ND,38099.0
+vha_437GB,2700 State Street,Bismarck,ND,38015.0
+vha_437GC,1839 North Park Street,Fergus Falls,MN,27111.0
+vha_437GD,3400 South Broadway Street,Minot,ND,38101.0
+vha_437GE,1217 Anne Street NW,Bemidji,MN,27007.0
+vha_437GF,1542 16th Street West,Williston,ND,38105.0
+vha_437GI,3221 32nd Avenue South,Grand Forks,ND,38035.0
+vha_437GJ,766 Elks Drive,Dickinson,ND,38089.0
+vha_437GK,2430 20th Street Southwest,Jamestown,ND,38093.0
+vha_437GL,1031 7th Street Northeast,Devils Lake,ND,38071.0
+vha_437QA,721 1st Avenue North,Fargo,ND,38017.0
+vha_438,2501 West 22nd Street,Sioux Falls,SD,46099.0
+vha_438GA,1850 Royal Avenue,Spirit Lake,IA,19059.0
+vha_438GC,380 West Anchor Drive,Dakota Dunes,SD,46127.0
+vha_438GD,2301 8th Ave Northeast,Aberdeen,SD,46013.0
+vha_438GE,400 West South Dakota Highway 46,Wagner,SD,46023.0
+vha_438GF,4 19th Street Northeast,Watertown,SD,46029.0
+vha_442,2360 East Pershing Boulevard,Cheyenne,WY,56021.0
+vha_442GB,1116 10th Avenue,Sidney,NE,31033.0
+vha_442GC,2509 Research Boulevard,Fort Collins,CO,8069.0
+vha_442GD,5200 Hahns Peak Drive,Loveland,CO,8069.0
+vha_442HK,759 East Cole Street,Wheatland,WY,56031.0
+vha_442QA,1809 East Daley Street,Rawlins,WY,56007.0
+vha_442QB,908 West 25th Avenue,Torrington,WY,56015.0
+vha_442QD,2901 Armory Road,Laramie,WY,56001.0
+vha_442QE,100 College Avenue,Sterling,CO,8075.0
+vha_459,459 Patterson Road,Honolulu,HI,15003.0
+vha_459GA,203 Ho'ohana Street,Kahului,HI,15009.0
+vha_459GB,45 Mohouli Street,Hilo,HI,15001.0
+vha_459GC,75-377 Hualalai Road,Kailua-Kona,HI,15001.0
+vha_459GD,4485 Pahe'e Street,Lihue,HI,15007.0
+vha_459GE,498 Chalan Palasyo,Agana Heights,GU,66010.0
+vha_459GF,Fiatele Teo Army Reserve Building,Pago Pago,AS,60010.0
+vha_459GG,91-2135 Fort Weaver Road,Ewa Beach,HI,15003.0
+vha_459GH,Marina Heights Business Park - Garapan,Saipan,MP,69110.0
+vha_459QA,628-B Seventh Street,Lanai City,HI,15009.0
+vha_459QB,280 Home Olu Place,Kaunakakai,HI,15009.0
+vha_460,1601 Kirkwood Highway,Wilmington,DE,10003.0
+vha_460GA,21748 Roth Avenue,Georgetown,DE,10005.0
+vha_460GC,1198 South Governors Avenue,Dover,DE,10001.0
+vha_460GD,1 Munro Avenue,Cape May,NJ,34009.0
+vha_460HE,1909 New Road,Northfield,NJ,34001.0
+vha_460HG,79 West Landis Avenue,Vineland,NJ,34011.0
+vha_460HK,1601 Kirkwood Highway,Wilmington,DE,10003.0
+vha_463,1201 North Muldoon Road,Anchorage,AK,2020.0
+vha_463GA,4076 Neeley Road,Fort Wainwright,AK,2090.0
+vha_463GB,240 Hospital Place,Soldotna,AK,2122.0
+vha_463GC,865 North Seward Meridian Parkway,Wasilla,AK,2170.0
+vha_463GD,4300 Bartlett Street,Homer,AK,2122.0
+vha_463GE,709 West 9th Street,Juneau,AK,2110.0
+vha_463QA,5955 Zeamer Avenue,Joint Base Elmendorf-Richardson,AK,2020.0
+vha_501,"1501 San Pedro Drive, Southeast",Albuquerque,NM,35001.0
+vha_501G2,624 University Avenue,Las Vegas,NM,35047.0
+vha_501GA,2410 West Main Street,Artesia,NM,35015.0
+vha_501GB,3605 English Road,Farmington,NM,35045.0
+vha_501GC,2950 Leslie Road,Silver City,NM,35017.0
+vha_501GD,2075 South NM Hwy 602,Gallup,NM,35031.0
+vha_501GE,105 South Coronado Avenue,Espanola,NM,35039.0
+vha_501GH,1960 North Date Street,Truth or Consequences,NM,35051.0
+vha_501GI,3199 North White Sands Boulevard,Alamogordo,NM,35035.0
+vha_501GJ,1970 East Third Avenue,Durango,CO,8067.0
+vha_501GK,5152 Beckner Road,Sante Fe,NM,35049.0
+vha_501GM,"1760 Grande Boulevard, Southeast",Rio Rancho,NM,35043.0
+vha_501GN,1353 Paseo Del Pueblo Sur,Taos,NM,35055.0
+vha_501HB,1493 Whittier Street,Raton,NM,35007.0
+vha_502,2495 Shreveport Highway,Pineville,LA,22079.0
+vha_502GA,1907 Johnson Street,Jennings,LA,22053.0
+vha_502GB,3149 Ambassador Caffery Parkway,Lafayette,LA,22055.0
+vha_502GE,"3601 Gerstner Memorial Drive, Hwy 14",Lake Charles,LA,22019.0
+vha_502GF,3353 University Parkway,Leesville,LA,22115.0
+vha_502GG,740 Keyser Avenue,Natchitoches,LA,22069.0
+vha_502QB,309 Saint Julien Avenue,Lafayette,LA,22055.0
+vha_503,2907 Pleasant Valley Boulevard,Altoona,PA,42013.0
+vha_503GA,598 Galleria Drive,Johnstown,PA,42021.0
+vha_503GB,5690 Shaffer Road,DuBois,PA,42033.0
+vha_503GC,2581 Clyde Avenue,State College,PA,42027.0
+vha_503GD,13903 William Penn Highway,Mapleton Depot,PA,42061.0
+vha_503GE,1570 Oakland Avenue,Indiana,PA,42063.0
+vha_504,"6010 Amarillo Boulevard, West",Amarillo,TX,48375.0
+vha_504BY,6104 Avenue Q South Drive,Lubbock,TX,48303.0
+vha_504BZ,921 East Llano Estacado Boulevard,Clovis,NM,35009.0
+vha_504GA,1001 Highway 83 North,Childress,TX,48075.0
+vha_504HB,325 Denver Avenue,Dalhart,TX,48111.0
+vha_506,2215 Fuller Road,Ann Arbor,MI,26161.0
+vha_506GA,1200 South Detroit Avenue,Toledo,OH,39095.0
+vha_506GB,2360 South Linden Road,Flint,MI,26049.0
+vha_506GC,4328 Page Avenue,Michigan Center,MI,26075.0
+vha_506QA,3800 Packard Road,Ann Arbor,MI,26161.0
+vha_506QB,2500 Green Road,Ann Arbor,MI,26161.0
+vha_508,1670 Clairmont Road,Decatur,GA,13089.0
+vha_508GA,"1701 Hardee Avenue, Southwest",Atlanta,GA,13089.0
+vha_508GE,4175 Tanners Creek Drive,Flowery Branch,GA,13139.0
+vha_508GF,2041 Mesa Valley Way,Austell,GA,13067.0
+vha_508GG,175 Medical Boulevard,Stockbridge,GA,13151.0
+vha_508GH,455 Philip Boulevard,Lawrenceville,GA,13135.0
+vha_508GI,39-A Oak Hill Court,Newnan,GA,13077.0
+vha_508GJ,"1294 Highway 515, East",Blairsville,GA,13291.0
+vha_508GK,180 Martin Drive,Carrollton,GA,13045.0
+vha_508GL,30 Chateau Drive Southeast,Rome,GA,13115.0
+vha_508GM,934 East Church Street,Jasper,GA,13227.0
+vha_508GN,10155 Eagle Drive,Covington,GA,13217.0
+vha_508GO,2217 Roswell Road,Marietta,GA,13067.0
+vha_508GP,2400 Herodian Way Southeast,Smyrna,GA,13067.0
+vha_508QB,2675 North Martin Street,East Point,GA,13121.0
+vha_508QC,2296 Henderson Mill Road,Atlanta,GA,13089.0
+vha_508QD,1513 Cleveland Avenue,East Point,GA,13121.0
+vha_508QE,1970 Riverside Parkway,Lawrenceville,GA,13135.0
+vha_508QF,250 North Arcadia Avenue,Decatur,GA,13089.0
+vha_508QH,1800 Phoenix Boulevard,College Park,GA,13063.0
+vha_508QI,3101 Clairmont Road Northeast,Brookhaven,GA,13089.0
+vha_508QJ,2309 Parklake Drive Northeast,Atlanta,GA,13089.0
+vha_509,950 15th Street,Augusta,GA,13245.0
+vha_509A0,One Freedom Way,Augusta,GA,13245.0
+vha_509GA,"9249 Highway 29, South",Athens,GA,13059.0
+vha_509GB,951 Millbrook Avenue,Aiken,SC,45003.0
+vha_509QA,658 Northside Drive East,Statesboro,GA,13031.0
+vha_512,10 North Greene Street,Baltimore,MD,24510.0
+vha_512A5,59 Avenue D,Perry Point,MD,24015.0
+vha_512GA,830 Chesapeake Drive,Cambridge,MD,24019.0
+vha_512GC,808 Landmark Drive,Glen Burnie,MD,24003.0
+vha_512GD,3901 The Alameda,Baltimore,MD,24510.0
+vha_512GE,1701 Market Place,Pocomoke City,MD,24047.0
+vha_512GF,5235 King Avenue,Rosedale,MD,24005.0
+vha_512GG,2479 5th Street,Fort Meade,MD,24003.0
+vha_512QA,209 West Fayette Street,Baltimore,MD,24510.0
+vha_515,5500 Armstrong Road,Battle Creek,MI,26025.0
+vha_515BY,5838 Metro Way Southwest,Wyoming,MI,26081.0
+vha_515GA,5000 Hakes Drive,Muskegon,MI,26121.0
+vha_515GB,2025 South Washington Avenue,Lansing,MI,26065.0
+vha_515GC,115 West Main Street,Benton Harbor,MI,26021.0
+vha_515QA,2025 South Washington Avenue,Lansing,MI,26065.0
+vha_515QB,620 Century Avenue Southwest,Grand Rapids,MI,26081.0
+vha_516,10000 Bay Pines Boulevard,Bay Pines,FL,12103.0
+vha_516BZ,2489 Diplomat Parkway East,Cape Coral,FL,12071.0
+vha_516GA,5682 Bee Ridge Road,Sarasota,FL,12115.0
+vha_516GB,840 Dr. Martin Luther King Jr. Street North,St. Petersburg,FL,12103.0
+vha_516GC,35209 US Hwy 19 North,Palm Harbor,FL,12103.0
+vha_516GD,5520 State Route 64,Bradenton,FL,12081.0
+vha_516GE,4161 Tamiami Trail,Port Charlotte,FL,12015.0
+vha_516GF,800 Goodlette Road North,Naples,FL,12021.0
+vha_516GH,5901 US Highway 27 South,Sebring,FL,12055.0
+vha_517,200 Veterans Avenue,Beckley,WV,54081.0
+vha_517GB,228 Shamrock Lane,Ronceverte,WV,54025.0
+vha_517HK,1780 Stadium Drive,Bluefield,WV,54055.0
+vha_517QA,150 Courthouse Road,Princeton,WV,54055.0
+vha_518,200 Springs Road,Bedford,MA,25017.0
+vha_518GA,225 Boston Street,Lynn,MA,25009.0
+vha_518GB,108 Merrimack Street,Haverhill,MA,25009.0
+vha_518GE,199 Main Street,Gloucester,MA,25009.0
+vha_519,300 Veterans Boulevard,Big Spring,TX,48227.0
+vha_519GA,8050 East Highway 191,Odessa,TX,48135.0
+vha_519GB,1601 North Turner Street,Hobbs,NM,35025.0
+vha_519GD,1205 North Sycamore Street,Fort Stockton,TX,48371.0
+vha_519HC,3850 Ridgemont Drive,Abilene,TX,48441.0
+vha_519HF,4240 Southwest Boulevarrd,San Angelo,TX,48451.0
+vha_520,400 Veterans Avenue,Biloxi,MS,28047.0
+vha_520BZ,790 Veterans Way,Pensacola,FL,12033.0
+vha_520GA,4444 Demetropolis Road,Mobile,AL,1097.0
+vha_520GB,2600 Veterans Way,Panama City Beach,FL,12005.0
+vha_520GC,100 Veterans Way,Eglin Air Force Base,FL,12091.0
+vha_520QA,140 Richard Jackson Boulevard,Panama City Beach,FL,12005.0
+vha_521,700 South 19th Street,Birmingham,AL,1073.0
+vha_521GA,"500 Markaview Road, Northwest",Huntsville,AL,1089.0
+vha_521GC,422 Cox Boulevard,Sheffield,AL,1033.0
+vha_521GD,206 Rescia Avenue,Gadsden,AL,1055.0
+vha_521GE,96 Ali Way,Oxford,AL,1015.0
+vha_521GF,1454 Jones Dairy Road,Jasper,AL,1127.0
+vha_521GG,"975 Ninth Avenue, Southwest",Bessemer,AL,1073.0
+vha_521GH,"151 9th Avenue, Northwest",Childersburg,AL,1121.0
+vha_521GI,100 Judy Smith Drive,Guntersville,AL,1095.0
+vha_521GJ,2415 7th Avenue South,Birmingham,AL,1073.0
+vha_521QA,1720 University Boulevard,Birmingham,AL,1073.0
+vha_523,150 South Huntington Avenue,Boston,MA,25025.0
+vha_523A4,1400 VFW Parkway,West Roxbury,MA,25025.0
+vha_523A5,940 Belmont Street,Brockton,MA,25023.0
+vha_523BY,130 Marshall Road,Lowell,MA,25017.0
+vha_523BZ,251 Causeway Street,Boston,MA,25025.0
+vha_523GA,61 Lincoln Street,Framingham,MA,25017.0
+vha_523GC,110 West Squantam Street,Quincy,MA,25021.0
+vha_523GD,116 Long Pond Road,Plymouth,MA,25023.0
+vha_526,130 West Kingsbridge Road,Bronx,NY,36005.0
+vha_526GA,23 South Broadway,White Plains,NY,36119.0
+vha_526GB,124 New Main Street,Yonkers,NY,36119.0
+vha_526GD,4103 Queens Boulevard,Sunnyside,NY,36081.0
+vha_526QA,130 West Kingsbridge Road,Bronx,NY,36005.0
+vha_528,3495 Bailey Avenue,Buffalo,NY,36029.0
+vha_528A4,222 Richmond Avenue,Batavia,NY,36037.0
+vha_528A5,400 Fort Hill Avenue,Canandaigua,NY,36069.0
+vha_528A6,76 Veterans Avenue,Bath,NY,36101.0
+vha_528A7,800 Irving Avenue,Syracuse,NY,36067.0
+vha_528A8,113 Holland Avenue,Albany,NY,36001.0
+vha_528G2,7426 NYS Route 9N,Westport,NY,36031.0
+vha_528G3,109 North Main Street,Bainbridge,NY,36017.0
+vha_528G4,1316 College Avenue,Elmira,NY,36015.0
+vha_528G5,47 East Genesee Street,Auburn,NY,36011.0
+vha_528G6,2623 State Highway 30A,Fonda,NY,36057.0
+vha_528G7,159 Jefferson Heights,Catskill,NY,36039.0
+vha_528G8,3458 Riverside Drive,Wellsville,NY,36003.0
+vha_528G9,1451 Dryden Road,Freeville,NY,36109.0
+vha_528GB,608 West 3rd Street,Jamestown,NY,36013.0
+vha_528GC,1170 Central Avenue,Dunkirk,NY,36013.0
+vha_528GD,2201 Pine Avenue,Niagara Falls,NY,36063.0
+vha_528GE,465 Westfall Road,Rochester,NY,36055.0
+vha_528GK,5725 South Transit Road,Lockport,NY,36063.0
+vha_528GL,6100 St. Lawrence Centre,Massena,NY,36089.0
+vha_528GM,125 Brookley Road,Rome,NY,36065.0
+vha_528GN,203 Court Street,Binghamton,NY,36007.0
+vha_528GO,144 Eastern Boulevard,Watertown,NY,36045.0
+vha_528GP,437 State Route 104E,Oswego,NY,36075.0
+vha_528GQ,1234 Abbott Road,Lackawanna,NY,36029.0
+vha_528GQ01,15 Commerce Drive,Springville,NY,36029.0
+vha_528GR,465 North Union Street,Olean,NY,36009.0
+vha_528GT,101 Ridge Street,Glens Falls,NY,36113.0
+vha_528GV,80 Sharron Avenue,Plattsburgh,NY,36019.0
+vha_528GW,1346 Gerling Street,Schenectady,NY,36093.0
+vha_528GX,295 River Street,Troy,NY,36083.0
+vha_528GY,963 Route 146,Clifton Park,NY,36091.0
+vha_528GZ,324 Plaza Road,Kingston,NY,36111.0
+vha_528QA,2963 Main Street,Buffalo,NY,36029.0
+vha_528QB,1325 Main Street,Buffalo,NY,36029.0
+vha_528QC,260 Calkins Road,Rochester,NY,36055.0
+vha_528QE,24 Maple View Lane,Coudersport,PA,42105.0
+vha_528QF,1835 Shumway Hill Road,Wellsboro,PA,42117.0
+vha_528QG,620 Erie Boulevard West,Syracuse,NY,36067.0
+vha_528QH,572 South Salina Street,Syracuse,NY,36067.0
+vha_528QI,910 Erie Boulevard East,Syracuse,NY,36067.0
+vha_528QK,33 Depot Street,Saranac Lake,NY,36033.0
+vha_528QN,19472 US Route 11,Watertown,NY,36045.0
+vha_529,353 North Duffy Road,Butler,PA,42019.0
+vha_529A4,325 New Castle Road,Butler,PA,42019.0
+vha_529GA,295 North Kerrwood Drive,Hermitage,PA,42085.0
+vha_529GB,1750 New Butler Road,New Castle,PA,42073.0
+vha_529GC,11 Hilltop Plaza,Kittanning,PA,42005.0
+vha_529GD,56 Clarion Plaza,Monroe Township,PA,42031.0
+vha_529GF,900 Commonwealth Drive,Cranberry Township,PA,42019.0
+vha_531,500 West Fort Street,Boise,ID,16001.0
+vha_531GE,260 2nd Avenue East,Twin Falls,ID,16083.0
+vha_531GG,4521 Thomas Jefferson Street,Caldwell,ID,16027.0
+vha_531GH,635 Highway 20 North,Hines,OR,41025.0
+vha_531GI,815 North 6th East,Mountain Home,ID,16039.0
+vha_531GJ,705 Lena Street,Salmon,ID,16059.0
+vha_534,109 Bee Street,Charleston,SC,45019.0
+vha_534BY,1170 Shawnee Street,Savannah,GA,13051.0
+vha_534GB,3381 Phillis Boulevard,Myrtle Beach,SC,45051.0
+vha_534GC,1 Pinckney Boulevard,Beaufort,SC,45013.0
+vha_534GD,2418 NNPTC Circle,Goose Creek,SC,45015.0
+vha_534GE,500 East Oglethorpe Highway,Hinesville,GA,13179.0
+vha_534GF,9237 University Boulevard,North Charleston,SC,45019.0
+vha_534QA,1101 Johnson Avenue,Myrtle Beach,SC,45051.0
+vha_534QB,9229 University Boulevard,North Charleston,SC,45019.0
+vha_534QC,2424 City Hall Lane,North Charleston,SC,45019.0
+vha_537,820 South Damen Avenue,Chicago,IL,17031.0
+vha_537BY,9301 Madison Street,Crown Point,IN,18089.0
+vha_537GA,30 East 15th Street,Chicago Heights,IL,17031.0
+vha_537GD,211 East Ontario Street,Chicago,IL,17031.0
+vha_537HA,7731 South Halsted Street,Chicago,IL,17031.0
+vha_537QA,1141 South California Avenue,Chicago,IL,17031.0
+vha_538,17273 State Route 104,Chillicothe,OH,39141.0
+vha_538GA,88 North Plains Road,The Plains,OH,39009.0
+vha_538GB,4038 Rhodes Avenue,New Boston,OH,39145.0
+vha_538GC,27843 State Route 7,Marietta,OH,39167.0
+vha_538GD,1703 North Memorial Drive,Lancaster,OH,39045.0
+vha_538GE,2146 Southgate Parkway,Cambridge,OH,39059.0
+vha_538GF,448 West Main Street,Wilmington,OH,39027.0
+vha_538QA,17273 State Route 104,Chillicothe,OH,39141.0
+vha_539,3200 Vine Street,Cincinnati,OH,39061.0
+vha_539A4,1000 South Fort Thomas Avenue,Fort Thomas,KY,21037.0
+vha_539GA,103 Landmark Drive,Bellevue,KY,21037.0
+vha_539GB,4600 Beechwood Road,Cincinnati,OH,39025.0
+vha_539GC,1600 Flossie Drive,Greendale,IN,18029.0
+vha_539GD,7310 Turfway Road,Florence,KY,21015.0
+vha_539GE,1750 South Erie Highway,Hamilton,OH,39017.0
+vha_539GF,474 Home Street,Georgetown,OH,39015.0
+vha_539QA,3200 Vine Street,Cincinnati,OH,39061.0
+vha_539QB,2929 Highland Avenue,Cincinnati,OH,39061.0
+vha_539QC,909 Vine Street,Cincinnati,OH,39061.0
+vha_539QD,4600 Smith Road,Norwood,OH,39061.0
+vha_540,1 Medical Center Drive,Clarksburg,WV,54033.0
+vha_540GA,260 Spruce Street,Parsons,WV,54093.0
+vha_540GB,2311 Ohio Avenue,Parkersburg,WV,54107.0
+vha_540GC,40 Reston Place,Gassaway,WV,54007.0
+vha_540GD,40 Commerce Drive,Westover,WV,54061.0
+vha_540HK,1 Medical Center Drive,Clarksburg,WV,54033.0
+vha_541,10701 East Boulevard,Cleveland,OH,39035.0
+vha_541BY,733 Market Avenue South,Canton,OH,39151.0
+vha_541BZ,2031 Belmont Avenue,Youngstown,OH,39099.0
+vha_541GB,5255 North Abbe Road,Sheffield Village,OH,39093.0
+vha_541GC,1912 Hayes Avenue,Sandusky,OH,39043.0
+vha_541GD,1025 South Trimble Road,Mansfield,OH,39139.0
+vha_541GF,35000 Kaiser Court,Willoughby,OH,39085.0
+vha_541GG,55 West Waterloo Road,Akron,OH,39153.0
+vha_541GH,15655 State Route 170,Calcutta,OH,39029.0
+vha_541GI,"1460 Tod Avenue, Northwest",Warren,OH,39155.0
+vha_541GJ,1260 Monroe Avenue,New Philadelphia,OH,39157.0
+vha_541GK,6751 North Chestnut Street,Ravenna,OH,39133.0
+vha_541GL,8787 Brookpark Road,Parma,OH,39035.0
+vha_541GM,8901 Superior Avenue,Cleveland,OH,39035.0
+vha_541QA,111 East Voris Street,Akron,OH,39153.0
+vha_541QB,7000 Euclid Avenue,Cleveland,OH,39035.0
+vha_541QC,10701 East Boulevard,Cleveland,OH,39035.0
+vha_541QD,10701 East Boulevard,Cleveland,OH,39035.0
+vha_541QE,10701 East Boulevard,Cleveland,OH,39035.0
+vha_541QF,10701 East Boulevard,Cleveland,OH,39035.0
+vha_542,1400 Black Horse Hill Road,Coatesville,PA,42029.0
+vha_542GA,4883 West Chester Pike,Newtown Square,PA,42045.0
+vha_542GE,11 Independence Drive,Spring City,PA,42029.0
+vha_544,6439 Garners Ferry Road,Columbia,SC,45079.0
+vha_544BZ,41 Park Creek Drive,Greenville,SC,45045.0
+vha_544GB,1822 Sally Hill Farms Boulevard,Florence,SC,45041.0
+vha_544GC,2670 Mills Park Drive,Rock Hill,SC,45091.0
+vha_544GD,3030 North Highway 81,Anderson,SC,45007.0
+vha_544GE,1767 Village Park Drive,Orangeburg,SC,45075.0
+vha_544GF,407 North Salem Avenue,Sumter,SC,45085.0
+vha_544GG,279 North Grove Medical Park Drive,Spartanburg,SC,45083.0
+vha_544HK,6439 Garners Ferry Road,Columbia,SC,45079.0
+vha_546,1201 Northwest 16th Street,Miami,FL,12086.0
+vha_546BZ,9800 West Commercial Boulevard,Sunrise,FL,12011.0
+vha_546GA,1492 West Flagler Street,Miami,FL,12086.0
+vha_546GB,1300 Douglas Circle,Key West,FL,12087.0
+vha_546GC,950 Krome Avenue,Homestead,FL,12086.0
+vha_546GD,7369 Sheridan Street,Hollywood,FL,12011.0
+vha_546GE,105662 Overseas Highway,Key Largo,FL,12087.0
+vha_546GF,3702 Washington Street,Hollywood,FL,12011.0
+vha_546GH,2100 Southwest 10th Street,Deerfield Beach,FL,12011.0
+vha_548,7305 North Military Trail,West Palm Beach,FL,12099.0
+vha_548GA,1901 South 25th Street,Fort Pierce,FL,12111.0
+vha_548GB,4800 Linton Boulevard,Delray Beach,FL,12099.0
+vha_548GC,3501 Southeast Willoughby Boulevard,Stuart,FL,12085.0
+vha_548GD,901 Meadows Road,Boca Raton,FL,12099.0
+vha_548GE,372 17th Street,Vero Beach,FL,12061.0
+vha_548GF,1201 North Parrot Avenue,Okeechobee,FL,12093.0
+vha_548QA,128 Southwest Chamber Court,Port Saint Lucie,FL,12111.0
+vha_549,4500 South Lancaster Road,Dallas,TX,48113.0
+vha_549A4,1201 East 9th Street,Bonham,TX,48147.0
+vha_549A5,2300 Marie Curie Boulevard,Garland,TX,48113.0
+vha_549BY,2201 Southeast Loop 820,Fort Worth,TX,48439.0
+vha_549GD,2223 Colorado Boulevard,Denton,TX,48121.0
+vha_549GE,1713 South FM 51,Decatur,TX,48497.0
+vha_549GF,1210 Paluxy Medical Circle,Granbury,TX,48221.0
+vha_549GH,4006 Wellington Road,Greenville,TX,48231.0
+vha_549GJ,3811 North US Highway 75,Sherman,TX,48181.0
+vha_549GK,4243 South Polk Street,Dallas,TX,48113.0
+vha_549GL,3804 15th Street,Plano,TX,48085.0
+vha_549GM,2737 Sherman Street,Grand Prairie,TX,48439.0
+vha_549HK,4500 South Lancaster Road,Dallas,TX,48113.0
+vha_549QA,4900 South Lancaster Road,Dallas,TX,48113.0
+vha_549QB,1518 East Lancaster Road,Fort Worth,TX,48439.0
+vha_549QC,7916 South Broadway Avenue,Tyler,TX,48423.0
+vha_550,1900 East Main Street,Danville,IL,17183.0
+vha_550BY,7717 North Orange Prairie Road,Peoria,IL,17143.0
+vha_550GA,792 North Sunnyside Road,Decatur,IL,17115.0
+vha_550GD,5850 South 6th Street,Springfield,IL,17167.0
+vha_550GF,501 Lakeland Boulevard,Mattoon,IL,17029.0
+vha_550GG,207 Hamilton Road,Bloomington,IL,17113.0
+vha_552,4100 West Third Street,Dayton,OH,39113.0
+vha_552GA,4337 North Union Road,Middletown,OH,39165.0
+vha_552GB,750 West High Street,Lima,OH,39003.0
+vha_552GC,1010 North J Street,Richmond,IN,18177.0
+vha_552GD,1620 North Limestone Street,Springfield,OH,39023.0
+vha_552GF,4881 Sugar Maple Drive,Wright Patterson AFB,OH,39057.0
+vha_552QC,4100 West Third Street,Dayton,OH,39113.0
+vha_553,4646 John R Street,Detroit,MI,26163.0
+vha_553BU,4777 East Outer Drive,Detroit,MI,26163.0
+vha_553GA,7470 Brockway Road,Yale,MI,26147.0
+vha_553GB,44200 Woodward Avenue,Pontiac,MI,26125.0
+vha_553QA,301 Piquette Street,Detroit,MI,26163.0
+vha_554,1700 North Wheeling Street,Aurora,CO,8001.0
+vha_554A4,2600 Oakshire Lane,Pueblo,CO,8101.0
+vha_554A5,1055 Clermont Street,Denver,CO,8031.0
+vha_554BU,7350 West Eastman Place,Lakewood,CO,8059.0
+vha_554GB,13701 East Mississippi Avenue,Aurora,CO,8005.0
+vha_554GC,1020 Johnson Road,Golden,CO,8059.0
+vha_554GD,4776 Eagleridge Circle,Pueblo,CO,8101.0
+vha_554GE,3141 Centennial Boulevard,Colorado Springs,CO,8041.0
+vha_554GF,622 Del Sol Drive,Alamosa,CO,8003.0
+vha_554GG,1100 Carson Avenue,La Junta,CO,8089.0
+vha_554GH,1401 South Main Street,Lamar,CO,8099.0
+vha_554GI,1177 Rose Avenue,Burlington,CO,8063.0
+vha_554GJ,4545 East 9th Avenue,Denver,CO,8031.0
+vha_554QA,3836 York Street,Denver,CO,8031.0
+vha_554QB,14400 East Jewell Avenue,Aurora,CO,8005.0
+vha_554QC,920 Rush Drive,Salida,CO,8015.0
+vha_556,3001 Greenbay Road,North Chicago,IL,17097.0
+vha_556GA,1942 Dempster Street,Evanston,IL,17031.0
+vha_556GC,3715 Municipal Drive,McHenry,IL,17111.0
+vha_556GD,8207 22nd Avenue,Kenosha,WI,55059.0
+vha_557,1826 Veterans Boulevard,Dublin,GA,13175.0
+vha_557GA,5566 Thomaston Road,Macon,GA,13021.0
+vha_557GB,814 Radford Boulevard,Albany,GA,13095.0
+vha_557GC,2249 Vinson Highway Southeast,Milledgeville,GA,13009.0
+vha_557GE,1111 Glynco Parkway,Brunswick,GA,13127.0
+vha_557GF,1824 Ridge Avenue North,Tifton,GA,13277.0
+vha_557HA,2370 South Houston Lake Road,Kathleen,GA,13153.0
+vha_558,508 Fulton Street,Durham,NC,37063.0
+vha_558GA,401 Moye Boulevard,Greenville,NC,37147.0
+vha_558GB,3305 Sungate Boulevard,Raleigh,NC,37183.0
+vha_558GC,5420 Highway 70 West,Morehead City,NC,37031.0
+vha_558GD,1830 Hillandale Road,Durham,NC,37063.0
+vha_558GE,1824 Hillandale Road,Durham,NC,37063.0
+vha_558GF,3040 Hammond Business Place,Raleigh,NC,37183.0
+vha_558GG,2600 Atlantic Avenue,Raleigh,NC,37183.0
+vha_558GH,11618 US 70 Business Highway West,Clayton,NC,37183.0
+vha_558QA,8081 Arco Corporate Drive,Raleigh,NC,37183.0
+vha_561,385 Tremont Avenue,East Orange,NJ,34013.0
+vha_561A4,151 Knollcroft Road,Lyons,NJ,34035.0
+vha_561BY,20 Washington Place,Newark,NJ,34013.0
+vha_561BZ,970 Route 70,Brick,NJ,34029.0
+vha_561GA,3635 Quakerbridge Road,Hamilton,NJ,34021.0
+vha_561GD,385 Prospect Avenue,Hackensack,NJ,34003.0
+vha_561GE,115 Christopher Columbus Drive,Jersey City,NJ,34017.0
+vha_561GF,14 Wills Way,Piscataway,NJ,34023.0
+vha_561GH,540 West Hanover Avenue,Morristown,NJ,34027.0
+vha_561GI,55 North Gilbert Street,Tinton Falls,NJ,34025.0
+vha_561GJ,11 Getty Avenue,Paterson,NJ,34031.0
+vha_561GK,222 High Street,Newton,NJ,34037.0
+vha_562,135 East 38th Street,Erie,PA,42049.0
+vha_562GA,16954 Conneaut Lake Road,Meadville,PA,42039.0
+vha_562GB,2044 Lambros Lane,Ashtabula,OH,39007.0
+vha_562GC,23 Kennedy Street,Bradford,PA,42083.0
+vha_562GD,464 Allegheny Boulevard,Franklin,PA,42121.0
+vha_562GE,3 Farm Colony Drive,Warren,PA,42123.0
+vha_564,1100 North College Avenue,Fayetteville,AR,5143.0
+vha_564BY,1850 West Republic Road,Springfield,MO,29077.0
+vha_564GA,814 US Highway 62-65 North,Harrison,AR,5009.0
+vha_564GB,1500 Dodson Avenue,Fort Smith,AR,5131.0
+vha_564GC,5571 North Gretna Road,Branson,MO,29213.0
+vha_564GD,2713 West Commercial Street,Ozark,AR,5047.0
+vha_564GE,1569 North Main Street,Jay,OK,40041.0
+vha_564GF,3015 South Connecticut Avenue,Joplin,MO,29097.0
+vha_564QA,216 East Township Street,Fayetteville,AR,5143.0
+vha_564QB,180 East Sunbridge Drive,Fayetteville,AR,5143.0
+vha_565,2300 Ramsey Street,Fayetteville,NC,37051.0
+vha_565GA,4006 Henderson Drive,Jacksonville,NC,37133.0
+vha_565GC,1705 Gardner Road,Wilmington,NC,37129.0
+vha_565GD,100 Jefferson Street,Hamlet,NC,37153.0
+vha_565GE,139 Three Hunts Drive,Pembroke,NC,37155.0
+vha_565GF,2610 Hospital Road,Goldsboro,NC,37191.0
+vha_565GG,3112 Tramway Road,Sanford,NC,37105.0
+vha_565GH,18 Doctors Circle,Supply,NC,37019.0
+vha_565GJ,306 Brynn Marr Road,Jacksonville,NC,37133.0
+vha_565GL,7300 South Raeford Road,Fayetteville,NC,37051.0
+vha_565GM,4 Josh Court,Jacksonville,NC,37133.0
+vha_565GN,2580 Henderson Drive,Jacksonville,NC,37133.0
+vha_565QA,2301 Robeson Street,Fayetteville,NC,37051.0
+vha_565QB,2300 Ramsey Street,Fayetteville,NC,37051.0
+vha_565QC,2300 Ramsey Street,Fayetteville,NC,37051.0
+vha_565QD,4101 Raeford Road,Fayetteville,NC,37051.0
+vha_565QE,2817 Reilly Road,Fort Bragg,NC,37051.0
+vha_568,113 Comanche Road,Fort Meade,SD,46093.0
+vha_568A4,500 North Fifth Street,Hot Springs,SD,46047.0
+vha_568GA,3625 5th Street,Rapid City,SD,46103.0
+vha_568GB,1615 North Harrison,Pierre,SD,46065.0
+vha_568GB01,602 1st Street Northeast,Wessington Springs,SD,46073.0
+vha_568HA,1124 Washington Boulevard,Newcastle,WY,56045.0
+vha_568HB,300 East 8th Street,Gordon,NE,31161.0
+vha_568HF,Hospital Road-Pine Ridge Indian Reservation,Pine Ridge,SD,46113.0
+vha_568HH,601 5th Avenue,Scottsbluff,NE,31157.0
+vha_568HJ,153 South Main Street,Mission,SD,46121.0
+vha_568HK,24348 Fox Ridge Road,Eagle Butte,SD,46041.0
+vha_568HP,660 West 2nd Street,Winner,SD,46123.0
+vha_570,2615 East Clinton Avenue,Fresno,CA,6019.0
+vha_570GA,340 East Yosemite Avenue,Merced,CA,6047.0
+vha_570GB,1050 North Cherry Street,Tulare,CA,6107.0
+vha_570GC,40597 Westlake Drive,Oakhurst,CA,6039.0
+vha_573,1601 Southwest Archer Road,Gainesville,FL,12001.0
+vha_573A4,619 South Marion Avenue,Lake City,FL,12023.0
+vha_573A5,280 Child Street,Jacksonville,FL,12031.0
+vha_573BU,1604 Southeast 3rd Avenue,Gainesville,FL,12001.0
+vha_573BY,1536 North Jefferson Street,Jacksonville,FL,12031.0
+vha_573GA,2841 North Patterson Street,Valdosta,GA,13185.0
+vha_573GD,1515 East Silver Springs Boulevard,Ocala,FL,12083.0
+vha_573GE,195 Southpark Boulevard,Saint Augustine,FL,12109.0
+vha_573GF,2181 East Orange Avenue,Tallahassee,FL,12073.0
+vha_573GI,8900 Southeast 165th Mulberry Lane,The Villages,FL,12083.0
+vha_573GJ,2603 Osborne Road,St. Marys,GA,13039.0
+vha_573GK,4970 Highway 90,Marianna,FL,12063.0
+vha_573GL,400 North State Road 19,Palatka,FL,12107.0
+vha_573GM,515B City Boulevard,Waycross,GA,13299.0
+vha_573GN,1224 North Peacock Avenue,Perry,FL,12123.0
+vha_573GO,400 College Drive,Middleburg,FL,12019.0
+vha_573QA,620 Northwest 16th Street,Gainesville,FL,12001.0
+vha_573QB,3401 Northwest 98th Street,Gainesville,FL,12001.0
+vha_573QC,5415 Southwest 64th Street,Gainesville,FL,12001.0
+vha_573QD,5533 Southwest 64th Street,Gainesville,FL,12001.0
+vha_573QE,5571 Southwest 64th Street,Gainesville,FL,12001.0
+vha_573QF,825 Northwest 23rd Avenue,Gainesville,FL,12001.0
+vha_573QG,6900 Southpoint Drive North,Jacksonville,FL,12031.0
+vha_573QH,3307 Southwest 26th Avenue,Ocala,FL,12083.0
+vha_573QJ,3901 University Boulevard South,Jacksonville,FL,12031.0
+vha_573QK,484 South West Commerce Drive,Lake City,FL,12023.0
+vha_575,2121 North Avenue,Grand Junction,CO,8077.0
+vha_575GA,154 Colorado Avenue,Montrose,CO,8085.0
+vha_575GB,1111 West Victory Way,Craig,CO,8081.0
+vha_575QA,2425 South Grand Avenue,Glenwood Springs,CO,8045.0
+vha_575QB,702 South Main Street,Moab,UT,49019.0
+vha_575QC,2121 North Avenue,Grand Junction,CO,8077.0
+vha_575QD,428 28 Road,Grand Junction,CO,8085.0
+vha_578,5000 South 5th Avenue,Hines,IL,17031.0
+vha_578GA,1201 Eagle Street,Joliet,IL,17197.0
+vha_578GC,581 William Latham Drive,Bourbonnais,IL,17091.0
+vha_578GD,161 South Lincolnway,North Aurora,IL,17089.0
+vha_578GE,4885 Hoffman Boulevard,Hoffman Estates,IL,17031.0
+vha_578GF,4461 North Progress Village,Peru,IL,17099.0
+vha_578GG,10201 South Cicero Avenue,Oak Lawn,IL,17031.0
+vha_580,2002 Holcombe Boulevard,Houston,TX,48201.0
+vha_580BU,7329 Fannin Street,Houston,TX,48201.0
+vha_580BY,3420 Veterans Circle,Beaumont,TX,48245.0
+vha_580BZ,2206 North John Redditt Drive,Lufkin,TX,48005.0
+vha_580GC,3828 Avenue N,Galveston,TX,48167.0
+vha_580GD,690 South Loop 336 West,Conroe,TX,48339.0
+vha_580GE,750 Westgreen Boulevard,Katy,TX,48201.0
+vha_580GF,208 South Oak Drive,Lake Jackson,TX,48039.0
+vha_580GG,22001 Southwest Freeway,Richmond,TX,48157.0
+vha_580GH,1200 West Main Street,Tomball,TX,48201.0
+vha_580GJ,9300 Emmett F. Lowery Expressway,Texas City,TX,48167.0
+vha_580QB,2002 Holcombe Boulevard,Houston,TX,48201.0
+vha_581,1540 Spring Valley Drive,Huntington,WV,54099.0
+vha_581GA,5230 KY Route 321,Prestonsburg,KY,21071.0
+vha_581GB,700 Technology Drive,South Charleston,WV,54039.0
+vha_581GG,323A Upper River Road,Gallipolis,OH,39053.0
+vha_581GH,2867 Route 65,Williamson,WV,54059.0
+vha_581QA,624 Ninth Street,Huntington,WV,54011.0
+vha_581QB,1540 Spring Valley Drive,Huntington,WV,54099.0
+vha_583,1481 West Tenth Street,Indianapolis,IN,18097.0
+vha_583BU,9045 East 59th Street,Indianapolis,IN,18097.0
+vha_583GA,380 West Honey Creek Drive,Terre Haute,IN,18167.0
+vha_583GB,2100 South Liberty Drive,Bloomington,IN,18105.0
+vha_583GC,2200 John R. Wooden Drive,Martinsville,IN,18109.0
+vha_583GD,3850 Shore Drive,Indianapolis,IN,18097.0
+vha_583GE,3851 North River Road,West Lafayette,IN,18157.0
+vha_583GF,3791 10th Street,Edinburgh,IN,18081.0
+vha_583GG,30 West Rampart Street,Shelbyville,IN,18145.0
+vha_583QA,1332 Arch Haven Avenue,Bloomington,IN,18105.0
+vha_583QB,777 North Meridian Street,Indianapolis,IN,18097.0
+vha_583QC,4612 South Springhill Junction,Terre Haute,IN,18167.0
+vha_583QD,5315 Lafayette Road,Indianapolis,IN,18097.0
+vha_583QE,2669 Cold Spring Road,Indianapolis,IN,18097.0
+vha_583QF,300 Highway 361,Crane,IN,18101.0
+vha_585,325 East H Street,Iron Mountain,MI,26043.0
+vha_585GA,787 Market Street,Hancock,MI,26061.0
+vha_585GB,639 West Kemp Street,Rhinelander,WI,55085.0
+vha_585GC,1110 10th Avenue,Menominee,MI,26109.0
+vha_585GD,629 West Cloverland Drive,Ironwood,MI,26053.0
+vha_585GF,813 East Lakeshore Drive,Manistique,MI,26153.0
+vha_585GG,2002 Minneapolis Avenue,Gladstone,MI,26041.0
+vha_585HA,1414 West Fair Avenue,Marquette,MI,26103.0
+vha_585HB,509 Osborn Boulevard,Sault Saint Marie,MI,26033.0
+vha_586,1500 East Woodrow Wilson Avenue,Jackson,MS,28049.0
+vha_586BU,5354 I-55 South Frontage Road East,Jackson,MS,28049.0
+vha_586GA,405 West Adams Street,Kosciusko,MS,28007.0
+vha_586GB,2103 13th Street,Meridian,MS,28075.0
+vha_586GC,1502 South Colorado Street,Greenville,MS,28151.0
+vha_586GD,5003 Hardy Street,Hattiesburg,MS,28073.0
+vha_586GE,105 Northgate Drive,Natchez,MS,28001.0
+vha_586GF,824 Alabama Street,Columbus,MS,28087.0
+vha_586GG,1308 Harrison Avenue,McComb,MS,28113.0
+vha_586QA,1500 East Woodrow Wilson Avenue,Jackson,MS,28049.0
+vha_586QB,6522 Dogwood View Parkway,Jackson,MS,28049.0
+vha_589,4801 Linwood Boulevard,Kansas City,MO,29095.0
+vha_589A4,800 Hospital Drive,Columbia,MO,29019.0
+vha_589A5,2200 Southwest Gage Boulevard,Topeka,KS,20177.0
+vha_589A6,4101 4th Street Trafficway,Leavenworth,KS,20103.0
+vha_589A7,5500 East Kellogg Drive,Wichita,KS,20173.0
+vha_589G1,702 East Young Street,Warrensburg,MO,29101.0
+vha_589G2,2201 Summerlon Circle,Dodge City,KS,20057.0
+vha_589G3,555 West 15th Street,Liberal,KS,20175.0
+vha_589G4,207B East 7th Street,Hays,KS,20051.0
+vha_589G5,1907 Harding Drive,Parsons,KS,20099.0
+vha_589G7,1625 East 30th Street,Hutchinson,KS,20155.0
+vha_589G8,3430 West Edgewood Drive,Jefferson City,MO,29051.0
+vha_589GB,209 Cunningham Parkway,Belton,MO,29037.0
+vha_589GC,501 South Hospital Drive,Paola,KS,20121.0
+vha_589GD,322 South Prewitt Street,Nevada,MO,29217.0
+vha_589GE,506 Rosewood Drive,Kirksville,MO,29001.0
+vha_589GF,700 GW Lane Street,Waynesville,MO,29169.0
+vha_589GH,940 Executive Drive,Osage Beach,MO,29029.0
+vha_589GI,3302 South Belt Highway,St. Joseph,MO,29021.0
+vha_589GJ,21 North 12th Street,Kansas City,KS,20209.0
+vha_589GM,629 South Plummer,Chanute,KS,20133.0
+vha_589GP,421 South Maple Street,Garnett,KS,20003.0
+vha_589GR,1169 Southwind Drive,Junction City,KS,20061.0
+vha_589GU,4821 Quail Crest Place,Lawrence,KS,20045.0
+vha_589GV,902 South Horton Street,Fort Scott,KS,20011.0
+vha_589GW,1410 East Iron Avenue,Salina,KS,20169.0
+vha_589GX,3460 South Clark Street,Mexico,MO,29007.0
+vha_589GY,207 Matlock Drive,St. James,MO,29161.0
+vha_589GZ,1111 Euclid Drive,Cameron,MO,29049.0
+vha_589HK,4801 East Linwood Boulevard,Kansas City,MO,29095.0
+vha_589JA,3320 West 10th Street,Sedalia,MO,29159.0
+vha_589JB,197 North McCleary Road,Excelsior Springs,MO,29047.0
+vha_589JC,6830 Anderson Street,Shawnee,KS,20091.0
+vha_589JD,1240 Banning Street,Marshfield,MO,29225.0
+vha_589JE,2303 Higgins Road,Platte City,MO,29165.0
+vha_589JF,4251 Northern Avenue,Kansas City,MO,29095.0
+vha_589QA,10500 Mastin Street,Overland Park,KS,20091.0
+vha_589QB,949 South Parklane,Wichita,KS,20173.0
+vha_589QC,935 South Parklane,Wichita,KS,20173.0
+vha_589QD,5500 East Kellogg Drive,Wichita,KS,20173.0
+vha_590,100 Emancipation Drive,Hampton,VA,51650.0
+vha_590GB,244 Clearfield Boulevard,Virginia Beach,VA,51810.0
+vha_590GC,1845 West City Drive,Elizabeth City,NC,37139.0
+vha_590GD,1987 South Military Highway,Chesapeake,VA,51550.0
+vha_590GE,600 Crawford Street,Portsmouth,VA,51740.0
+vha_590QA,100 Emancipation Drive,Hampton,VA,51650.0
+vha_590QB,100 Emancipation Drive,Hampton,VA,51650.0
+vha_593,6900 North Pecos Road,North Las Vegas,NV,32003.0
+vha_593GC,220 South Lola Lane,Pahrump,NV,32023.0
+vha_593GD,3968 North Rancho Drive,Las Vegas,NV,32003.0
+vha_593GE,1020 South Boulder Highway,Henderson,NV,32003.0
+vha_593GF,7235 South Buffalo Drive,Las Vegas,NV,32003.0
+vha_593GG,4461 East Charleston Boulevard,Las Vegas,NV,32003.0
+vha_593GH,3650 South Pointe Circle,Laughlin,NV,32003.0
+vha_593QC,3525 West Cheyenne Avenue,North Las Vegas,NV,32003.0
+vha_595,1700 South Lincoln Avenue,Lebanon,PA,42075.0
+vha_595GA,5070 Ritter Road,Mechanicsburg,PA,42041.0
+vha_595GC,212 Willow Valley Lakes Drive,Willow Street,PA,42071.0
+vha_595GD,2762 Century Boulevard,Wyomissing,PA,42011.0
+vha_595GE,2251 Eastern Boulevard,York,PA,42133.0
+vha_595GF,1410 Laurel Boulevard,Pottsville,PA,42107.0
+vha_595QA,1 Garrison Road,Annville,PA,42075.0
+vha_596,2250 Leestown Road,Lexington,KY,21067.0
+vha_596A4,1101 Veterans Drive,Lexington,KY,21067.0
+vha_596GA,300 Medpark Drive,Somerset,KY,21199.0
+vha_596GB,333 Beacon Hill Road,Morehead,KY,21205.0
+vha_596GC,210 Black Gold Boulevard,Hazard,KY,21193.0
+vha_596GD,209 Pauline Drive,Berea,KY,21151.0
+vha_598,4300 West Seventh Street,Little Rock,AR,5119.0
+vha_598A0,2200 Fort Roots Drive,North Little Rock,AR,5119.0
+vha_598GA,759 Highway 62 E,Mountain Home,AR,5005.0
+vha_598GB,1702 North West Avenue,El Dorado,AR,5139.0
+vha_598GC,177 Sawtooth Oak Street,Hot Springs,AR,5051.0
+vha_598GD,"300 Morrow Street, South",Mena,AR,5113.0
+vha_598GE,4747 Dusty Lake Drive,Pine Bluff,AR,5069.0
+vha_598GF,1120 South Main Street,Searcy,AR,5145.0
+vha_598GG,1520 East Dave Ward Drive,Conway,AR,5045.0
+vha_598GH,3106 West 2nd Court,Russellville,AR,5115.0
+vha_598QA,1000 Main Street,Little Rock,AR,5119.0
+vha_598QB,4300 West Seventh Street,Little Rock,AR,5119.0
+vha_600,5901 East Seventh Street,Long Beach,CA,6037.0
+vha_600GA,2569 West Woodland Drive,Anaheim,CA,6059.0
+vha_600GB,1506 Brookhollow Drive,Santa Ana,CA,6059.0
+vha_600GC,2001 River Avenue,Long Beach,CA,6037.0
+vha_600GD,10330 Pioneer Boulevard,Santa Fe Springs,CA,6037.0
+vha_600GE,23719 Moulton Parkway,Laguna Hills,CA,6059.0
+vha_600GF,1149 West 190th Street,Gardena,CA,6037.0
+vha_600QA,888 West Santa Ana Boulevard,Santa Ana,CA,6059.0
+vha_603,800 Zorn Avenue,Louisville,KY,21111.0
+vha_603GA,289 Ireland Avenue,Fort Knox,KY,21093.0
+vha_603GB,4347 Security Parkway,New Albany,IN,18043.0
+vha_603GC,3934 North Dixie Highway,Louisville,KY,21111.0
+vha_603GD,9208 Taylorsville Road,Louisville,KY,21111.0
+vha_603GE,3430 Newburg Road,Louisville,KY,21111.0
+vha_603GF,619 West Main Street,Clarkson,KY,21085.0
+vha_603GG,1467 North Scott Valley Drive,Scottsburg,IN,18143.0
+vha_603GH,1911 Highway 227,Carrollton,KY,21041.0
+vha_605,11201 Benton Street,Loma Linda,CA,6071.0
+vha_605BZ,26001 Redlands Boulevard,Redlands,CA,6071.0
+vha_605GA,12138 Industrial Boulevard,Victorville,CA,6071.0
+vha_605GB,28078 Baxter Road,Murrieta,CA,6065.0
+vha_605GC,41-990 Cook Street,Palm Desert,CA,6065.0
+vha_605GD,2045 Compton Avenue,Corona,CA,6065.0
+vha_605GE,8599 Haven Avenue,Rancho Cucamonga,CA,6071.0
+vha_605QA,1273 West Hobson Way,Blythe,CA,6065.0
+vha_607,2500 Overlook Terrace,Madison,WI,55025.0
+vha_607GC,1141 Black Bridge Road,Janesville,WI,55105.0
+vha_607GD,1670 South Boulevard,Baraboo,WI,55111.0
+vha_607GE,215 Corporate Drive,Beaver Dam,WI,55027.0
+vha_607GF,750 Kiwanis Drive,Freeport,IL,17177.0
+vha_607GG,1 Science Court,Madison,WI,55025.0
+vha_607HA,816 Featherstone Road,Rockford,IL,17201.0
+vha_608,718 Smyth Road,Manchester,NH,33011.0
+vha_608GA,302 Newmarket Street,Portsmouth,NH,33015.0
+vha_608GC,5 Terrascape Parkway,Somersworth,NH,33017.0
+vha_608GD,71 Hobbs Street,Conway,NH,33003.0
+vha_608HA,630 West Main Street,Tilton,NH,33001.0
+vha_610,1700 East 38th Street,Marion,IN,18053.0
+vha_610A4,2121 Lake Avenue,Fort Wayne,IN,18003.0
+vha_610BY,1540 Trinity Place,Mishawaka,IN,18141.0
+vha_610GB,3401 North Morrison Road,Muncie,IN,18035.0
+vha_610GC,2606 Peddlers Village Road,Goshen,IN,18039.0
+vha_610GD,750 North Broadway,Peru,IN,18103.0
+vha_610QA,2500 East State Boulevard,Fort Wayne,IN,18003.0
+vha_610QB,340 Columbia Place,South Bend,IN,18141.0
+vha_612A4,10535 Hospital Way,Mather,CA,6067.0
+vha_612B4,351 Hartnell Avenue,Redding,CA,6089.0
+vha_612BY,2221 Martin Luther King Jr. Way,Oakland,CA,6001.0
+vha_612GD,103 Bodin Circle,Travis AFB,CA,6095.0
+vha_612GE,201 Walnut Avenue,Mare Island,CA,6095.0
+vha_612GF,150 Muir Road,Martinez,CA,6013.0
+vha_612GG,1601 Concord Avenue,Chico,CA,6007.0
+vha_612GH,5342 Dudley Boulevard,McClellan Park,CA,6067.0
+vha_612GI,425 Plumas Boulevard,Yuba City,CA,6101.0
+vha_612GJ,101 East Oberlin Road,Yreka,CA,6093.0
+vha_612GK,11985 Heritage Oaks Place,Auburn,CA,6061.0
+vha_612QB,525 21st Street,Oakland,CA,6001.0
+vha_612QC,760 Cypress Avenue,Redding,CA,6089.0
+vha_612QD,2860 Howe Road,Martinez,CA,6013.0
+vha_613,510 Butler Avenue,Martinsburg,WV,54003.0
+vha_613GA,200 Glen Street,Cumberland,MD,24001.0
+vha_613GB,1101 Opal Court,Hagerstown,MD,24043.0
+vha_613GC,170 Prosperity Drive,Winchester,VA,51069.0
+vha_613GD,91 Pine Street,Franklin,WV,54071.0
+vha_613GE,15 Grant Street,Petersburg,WV,54023.0
+vha_613GF,1755 South High Street,Harrisonburg,VA,51660.0
+vha_613GG,1433 Porter Street,Frederick,MD,24021.0
+vha_614,1030 Jefferson Avenue,Memphis,TN,47157.0
+vha_614GA,1114 Commonwealth Blvd,Tupelo,MS,28081.0
+vha_614GB,2908 South Caraway Road,Jonesboro,AR,5031.0
+vha_614GC,1700 Crescent Meadows Drive,Holly Springs,MS,28093.0
+vha_614GD,70 Harbert Drive North,Savannah,TN,47071.0
+vha_614GE,3461 Austin Peay Highway,Memphis,TN,47157.0
+vha_614GF,1689 Nonconnah Boulevard,Memphis,TN,47157.0
+vha_614GG,180 Old Hickory Boulevard,Jackson,TN,47113.0
+vha_614GI,1067 Vendall Road,Dyersburg,TN,47045.0
+vha_614GN,125 Quarles Lane,West Helena,AR,5107.0
+vha_614QA,1407 Union Avenue,Memphis,TN,47157.0
+vha_618,One Veterans Drive,Minneapolis,MN,27053.0
+vha_618BY,3520 Tower Avenue,Superior,WI,55031.0
+vha_618GA,1212 Heckman Court,St. James,MN,27165.0
+vha_618GB,990 West 41st Street,Hibbing,MN,27137.0
+vha_618GD,1725 Legacy Parkway,Maplewood,MN,27123.0
+vha_618GE,475 Chippewa Mall Drive,Chippewa Falls,WI,55017.0
+vha_618GG,3551 Commercial Drive South West,Rochester,MN,27109.0
+vha_618GH,10369 State Highway 27,Hayward,WI,55113.0
+vha_618GI,7545 Veterans Drive,Ramsey,MN,27003.0
+vha_618GJ,1111 Shakopee Town Square,Shakopee,MN,27139.0
+vha_618GK,1665 West Main Street,Albert Lea,MN,27047.0
+vha_618GL,1201 Harmon Place,Minneapolis,MN,27053.0
+vha_618GM,2700A College Drive,Rice Lake,WI,55005.0
+vha_618GN,1961 Premier Drive,Mankato,MN,27013.0
+vha_618QA,1 Federal Drive,Fort Snelling,MN,27053.0
+vha_618QB,720 East Miners Drive,Ely,MN,27137.0
+vha_619,215 Perry Hill Road,Montgomery,AL,1101.0
+vha_619A4,2400 Hospital Road,Tuskegee,AL,1087.0
+vha_619GA,1310 13th Avenue,Columbus,GA,13215.0
+vha_619GB,2020 Alexander Drive,Dothan,AL,1069.0
+vha_619GD,301 Andrews Avenue,Fort Rucker,AL,1045.0
+vha_619GE,159 Whetstone Street,Monroeville,AL,1099.0
+vha_619GF,8105 Veterans Way,Montgomery,AL,1101.0
+vha_619QA,3753 Ross Clark Circle,Dothan,AL,1069.0
+vha_619QB,6635 Bass Road,Fort Benning,GA,13053.0
+vha_620,2094 Albany Post Road,Montrose,NY,36119.0
+vha_620A4,41 Castle Point Road,Wappingers Falls,NY,36027.0
+vha_620GA,345 North Main Street,New City,NY,36087.0
+vha_620GB,1875 Route 6,Carmel,NY,36079.0
+vha_620GD,30 Hatfield Lane,Goshen,NY,36071.0
+vha_620GE,100 Pike Street,Port Jervis,NY,36071.0
+vha_620GF,55 Sturgis Road,Monticello,NY,36105.0
+vha_620GG,488 Freedom Plains Road,Poughkeepsie,NY,36027.0
+vha_620GH,2881 Church Street,Pine Plains,NY,36027.0
+vha_620QA,2094 Albany Post Road,Montrose,NY,36119.0
+vha_620QC,2094 Albany Post Road,Montrose,NY,36119.0
+vha_621,Corner of Lamont Street and Veterans Way,Mountain Home,TN,47179.0
+vha_621BY,8033 Ray Mears Boulevard,Knoxville,TN,47093.0
+vha_621GA,401 Scenic Drive,Rogersville,TN,47073.0
+vha_621GC,654 Highway 58 East,Norton,VA,51720.0
+vha_621GG,925 East Morris Boulevard,Morristown,TN,47063.0
+vha_621GI,1124 Blanton Drive,Sevierville,TN,47155.0
+vha_621GJ,2426 Lee Highway,Bristol,VA,51520.0
+vha_621GK,130 Independence Lane,LaFollette,TN,47013.0
+vha_621GO,1141 Cold Springs Road,Mountain City,TN,47091.0
+vha_621QA,32613 Wilderness Road,Jonesville,VA,51105.0
+vha_621QB,4451 Lee Highway,Marion,VA,51173.0
+vha_621QC,1941 Lover's Gap Lane,Vansant,VA,51027.0
+vha_621QD,1557 Downtown West Boulevard,Knoxville,TN,47093.0
+vha_621QE,1521 Downtown West Boulevard,Knoxville,TN,47093.0
+vha_621QF,500 Washington Avenue,Johnson City,TN,47179.0
+vha_623,1011 Honor Heights Drive,Muskogee,OK,40101.0
+vha_623BY,9322 East 41st Street,Tulsa,OK,40143.0
+vha_623GA,2 East Clark Bass Boulevard,McAlester,OK,40121.0
+vha_623GB,269 South 7th Street,Vinita,OK,40035.0
+vha_623GC,901 South East Washington Street,Idabel,OK,40089.0
+vha_623QA,2414 East Shawnee Road,Muskogee,OK,40101.0
+vha_623QB,10159 East 11th Street,Tulsa,OK,40143.0
+vha_623QC,5110 South Yale Avenue,Tulsa,OK,40143.0
+vha_626,1310 24th Avenue South,Nashville,TN,47037.0
+vha_626A4,3400 Lebanon Pike,Murfreesboro,TN,47149.0
+vha_626GA,1406 Donelson Parkway,Dover,TN,47161.0
+vha_626GC,600 US 31 West Bypass,Bowling Green,KY,21227.0
+vha_626GE,782 Weatherly Drive,Clarksville,TN,47125.0
+vha_626GF,6098 Debra Road,Chattanooga,TN,47065.0
+vha_626GG,225 Von Karman Road,Arnold Air Force Base,TN,47031.0
+vha_626GH,851 South Willow Avenue,Cookeville,TN,47141.0
+vha_626GJ,1002 South Virginia Street,Hopkinsville,KY,21047.0
+vha_626GK,1014 South Chancery Street,McMinnville,TN,47177.0
+vha_626GL,2305 North Gateway Avenue,Harriman,TN,47145.0
+vha_626GM,833 Nashville Highway,Columbia,TN,47119.0
+vha_626GN,1320 Decatur Pike,Athens,TN,47107.0
+vha_626GO,2 International Plaza Drive,Nashville,TN,47037.0
+vha_626GP,419 Steam Plant Road,Gallatin,TN,47165.0
+vha_626QA,1818 Albion Street,Nashville,TN,47037.0
+vha_626QB,1919 Charlotte Avenue,Nashville,TN,47037.0
+vha_626QC,1208 Pointe Centre,Chattanooga,TN,47065.0
+vha_626QD,250 Glenis Drive,Murfreesboro,TN,47149.0
+vha_626QE,260 Glenis Drive,Murfreesboro,TN,47149.0
+vha_626QF,2292 Dalton Drive,Clarksville,TN,47125.0
+vha_629,2400 Canal Street,New Orleans,LA,22071.0
+vha_629BY,7968 Essen Park Avenue,Baton Rouge,LA,22033.0
+vha_629GA,6433 West Park Avenue,Houma,LA,22109.0
+vha_629GB,1131 South Morrison Boulevard,Hammond,LA,22105.0
+vha_629GC,60491 Doss Drive,Slidell,LA,22103.0
+vha_629GD,4004 West Airline Highway,Reserve,LA,22095.0
+vha_629GE,603 Haifleigh Street,Franklin,LA,22101.0
+vha_629GF,521 Ontario Street,Bogalusa,LA,22117.0
+vha_629QA,7850 Anselmo Lane,Baton Rouge,LA,22033.0
+vha_630,423 East 23rd Street,New York,NY,36061.0
+vha_630A4,800 Poly Place,Brooklyn,NY,36047.0
+vha_630A5,179-00 Linden Boulevard,Queens,NY,36081.0
+vha_630GA,55 West 125th Street,New York,NY,36061.0
+vha_630GB,1150 South Avenue,Staten Island,NY,36085.0
+vha_630QA,179-00 Linden Boulevard,Jamaica,NY,36081.0
+vha_630QB,179-00 Linden Boulevard,Jamaica,NY,36081.0
+vha_631,421 North Main Street,Leeds,MA,25015.0
+vha_631BY,25 Bond Street,Springfield,MA,25013.0
+vha_631GC,73 Eagle Street,Pittsfield,MA,25003.0
+vha_631GD,143 Munson Street,Greenfield,MA,25011.0
+vha_631GE,605 Lincoln Street,Worcester,MA,25027.0
+vha_631GF,881 Main Street,Fitchburg,MA,25027.0
+vha_631QA,377 Plantation Street,Worcester,MA,25027.0
+vha_631QB,55 North Lake Avenue,Worcester,MA,25027.0
+vha_632,79 Middleville Road,Northport,NY,36103.0
+vha_632GA,2201 Hempstead Turnpike,East Meadow,NY,36059.0
+vha_632HA,99 South Central Avenue,Valley Stream,NY,36059.0
+vha_632HB,300 Center Drive,Riverhead,NY,36103.0
+vha_632HC,132 East Main Street,Bay Shore,NY,36103.0
+vha_632HD,4 Phyllis Drive,Patchogue,NY,36103.0
+vha_632QA,79 Middleville Road,Northport,NY,36103.0
+vha_632QB,79 Middleville Road,Northport,NY,36103.0
+vha_635,921 Northeast 13th Street,Oklahoma City,OK,40109.0
+vha_635GA,4303 Pitman Street,Fort Sill,OK,40031.0
+vha_635GB,2600 Central Freeway,Wichita Falls,TX,48485.0
+vha_635GC,1009 West Ferguson Avenue,Blackwell,OK,40071.0
+vha_635GD,717 Better Now Plaza,Ada,OK,40123.0
+vha_635GE,320 North Perkins Road,Stillwater,OK,40119.0
+vha_635GF,1604 North Main,Altus,OK,40065.0
+vha_635GG,401 South 3rd Street,Enid,OK,40047.0
+vha_635GH,315 West Gary Boulevard,Clinton,OK,40039.0
+vha_635GI,1020 24th Avenue Northwest,Norman,OK,40027.0
+vha_635GJ,1808 Commons Circle,Yukon,OK,40017.0
+vha_635HB,1235 12th Avenue Northwest,Ardmore,OK,40019.0
+vha_635QA,2915 Pine Ridge Road,Oklahoma City,OK,40109.0
+vha_635QB,7919 Mid-America Boulevard,Oklahoma City,OK,40109.0
+vha_635QC,1301 Northeast Fourteenth Street,Oklahoma City,OK,40109.0
+vha_635QD,2640 Miner Road,Fort Sill,OK,40031.0
+vha_635QE,7050 Air Depot,Tinker AFB,OK,40109.0
+vha_636,4101 Woolworth Avenue,Omaha,NE,31055.0
+vha_636A4,2201 North Broadwell Avenue,Grand Island,NE,31079.0
+vha_636A5,600 South 70th Street,Lincoln,NE,31109.0
+vha_636A6,3600 30th Street,Des Moines,IA,19153.0
+vha_636A8,601 Highway 6 West,Iowa City,IA,19103.0
+vha_636GA,3204 Raasch Drive,Norfolk,NE,31119.0
+vha_636GB,600 East Francis Street,North Platte,NE,31111.0
+vha_636GC,520 South Pierce Avenue,Mason City,IA,19033.0
+vha_636GD,101 Iowa Avenue West,Marshalltown,IA,19127.0
+vha_636GF,2826 West Locust Street,Davenport,IA,19163.0
+vha_636GG,6020 Broadway Street,Quincy,IL,17001.0
+vha_636GH,945 Tower Park Drive,Waterloo,IA,19013.0
+vha_636GI,310 Home Boulevard,Galesburg,IL,17095.0
+vha_636GJ,2600 Dodge Street,Dubuque,IA,19061.0
+vha_636GK,2419 2nd Avenue North,Fort Dodge,IA,19187.0
+vha_636GL,2206 Longo Drive,Bellevue,NE,31153.0
+vha_636GM,311 South Clark Street,Carroll,IA,19027.0
+vha_636GN,2230 Wiley Boulevard Southwest,Cedar Rapids,IA,19113.0
+vha_636GP,512 South Fremont Street,Shenandoah,IA,19071.0
+vha_636GQ,1118 Burlington Street,Holdrege,NE,31137.0
+vha_636GR,1607 North Lincoln Street,Knoxville,IA,19125.0
+vha_636GS,1009 East Pennsylvania Avenue,Ottumwa,IA,19179.0
+vha_636GT,406 Avenue C,Sterling,IL,17195.0
+vha_636GU,915 Short Street,Decorah,IA,19191.0
+vha_636GW,520 10th Avenue,Coralville,IA,19103.0
+vha_636GX,102 North 25th Street,Fort Dodge,IA,19187.0
+vha_636QA,825 Dorcas Street,Omaha,NE,31055.0
+vha_636QB,1223 Center Street,Des Moines,IA,19153.0
+vha_636QC,1535 First Avenue Southeast,Cedar Rapids,IA,19113.0
+vha_636QD,1 University Circle,Macomb,IL,17109.0
+vha_636QG,601 Highway 6 West,Iowa City,IA,19103.0
+vha_636QH,3600 30th Street,Des Moines,IA,19153.0
+vha_636QI,415 North Perry Street,Davenport,IA,19163.0
+vha_636QJ,400 South Clinton Street,Iowa City,IA,19103.0
+vha_637,1100 Tunnel Road,Asheville,NC,37021.0
+vha_637GA,647 Wayah Street,Franklin,NC,37113.0
+vha_637GB,2270 College Avenue,Forest City,NC,37161.0
+vha_637GC,2440 Century Place Southeast,Hickory,NC,37035.0
+vha_640,3801 Miranda Avenue,Palo Alto,CA,6085.0
+vha_640A0,795 Willow Road,Menlo Park,CA,6081.0
+vha_640A4,4951 Arroyo Road,Livermore,CA,6001.0
+vha_640BY,5855 Silver Creek Valley Place,San Jose,CA,6085.0
+vha_640GA,1350 41st Avenue,Capitola,CA,6087.0
+vha_640GB,13663 Mono Way,Sonora,CA,6109.0
+vha_640GC,39199 Liberty Street,Fremont,CA,6001.0
+vha_640HA,7777 South Freedom Road,French Camp,CA,6077.0
+vha_640HB,1225 Oakdale Road,Modesto,CA,6099.0
+vha_640HC,201 9th Street,Marina,CA,6053.0
+vha_640QA,795 Willow Road,Menlo Park,CA,6081.0
+vha_640QB,795 Willow Road,Menlo Park,CA,6081.0
+vha_642,3900 Woodland Avenue,Philadelphia,PA,42101.0
+vha_642BU,1425-1429 Snyder Avenue,Philadelphia,PA,42101.0
+vha_642GA,3000 Lincoln Drive,Marlton,NJ,34005.0
+vha_642GC,433 Caredean Drive,Horsham,PA,42091.0
+vha_642GD,211 County House Road,Sewell,NJ,34015.0
+vha_642GF,300 South Broadway,Camden,NJ,34007.0
+vha_642GH,6232 Market Street,Philadelphia,PA,42101.0
+vha_642QA,4219 Chestnut Street,Philadelphia,PA,42101.0
+vha_642QB,213 North 4th Street,Philadelphia,PA,42101.0
+vha_644,650 East Indian School Road,Phoenix,AZ,4013.0
+vha_644BY,3285 South Val Vista Drive,Gilbert,AZ,4013.0
+vha_644GA,13985 West Grand Avenue,Surprise,AZ,4013.0
+vha_644GB,5171 Cub Lake Road,Show Low,AZ,4017.0
+vha_644GC,9250 West Thomas Road,Phoenix,AZ,4013.0
+vha_644GD,903 East Highway 260,Payson,AZ,4007.0
+vha_644GE,9424 North 25th Avenue,Phoenix,AZ,4013.0
+vha_644GF,5860 South Hospital Drive,Globe,AZ,4007.0
+vha_644GG,11390 East Via Linda Road,Scottsdale,AZ,4013.0
+vha_644GH,5040 North 15th Avenue,Phoenix,AZ,4013.0
+vha_644QA,1500 East Thomas Road,Phoenix,AZ,4013.0
+vha_644QB,650 E. Indian School Road,Phoenix,AZ,4013.0
+vha_646,University Drive C,Pittsburgh,PA,42003.0
+vha_646A4,1010 Delafield Road,Pittsburgh,PA,42003.0
+vha_646GA,67800 Mall Ring Road,St. Clairsville,OH,39013.0
+vha_646GB,5274 Route 30,Greensburg,PA,42129.0
+vha_646GC,300 Brighton Avenue,Rochester,PA,42007.0
+vha_646GD,95 West Beau Street,Washington,PA,42125.0
+vha_646GE,627 Pittsburgh Road,Uniontown,PA,42051.0
+vha_648,3710 Southwest US Veterans Hospital Road,Portland,OR,41051.0
+vha_648A4,1601 East 4th Plain Boulevard,Vancouver,WA,53011.0
+vha_648GA,2650 Northeast Courtney Drive,Bend,OR,41017.0
+vha_648GB,1750 McGilchrist Street Southeast,Salem,OR,41047.0
+vha_648GD,91400 Neacoxie Street,Warrenton,OR,41007.0
+vha_648GE,1800 Northeast Market Drive,Fairview,OR,41051.0
+vha_648GF,1925 North East Stucki Avenue,Hillsboro,OR,41067.0
+vha_648GG,1750 Southwest Blankenship Road,West Linn,OR,41005.0
+vha_648GH,1010 Southwest Coast Highway,Newport,OR,41041.0
+vha_648GI,308 Southwest 1st Avenue,Portland,OR,41051.0
+vha_648GJ,704 Veterans Drive,The Dalles,OR,41065.0
+vha_648GK,4422 Northeast Devils Lake Boulevard,Lincoln City,OR,41041.0
+vha_649,500 Highway 89 North,Prescott,AZ,4025.0
+vha_649GA,2668 Hualapai Mountain Road,Kingman,AZ,4015.0
+vha_649GB,1300 West University Avenue,Flagstaff,AZ,4005.0
+vha_649GC,2035 Mesquite Avenue,Lake Havasu City,AZ,4015.0
+vha_649GD,41810 North Venture Drive,Anthem,AZ,4013.0
+vha_649GE,501 South Willard Street,Cottonwood,AZ,4025.0
+vha_649QA,Highway 191 and Hospital Drive,Chinle,AZ,4003.0
+vha_649QB,33 West Vista Drive,Holbrook,AZ,4017.0
+vha_649QD,801 North Navajo Drive,Page,AZ,4005.0
+vha_649QF,167 North Main Street,Tuba City,AZ,4005.0
+vha_649QG,Highway 264 Mile Post 388,Polacca,AZ,4017.0
+vha_649QH,US Highway 160,Kayenta,AZ,4001.0
+vha_650,830 Chalkstone Avenue,Providence,RI,44007.0
+vha_650GA,175 Elm Street,New Bedford,MA,25005.0
+vha_650GB,233 Stevens Street,Hyannis,MA,25001.0
+vha_650GD,One Corporate Place,Middletown,RI,44005.0
+vha_650QA,623 Atwells Avenue,Providence,RI,44007.0
+vha_650QB,75 Eagle Street,Providence,RI,44007.0
+vha_652,1201 Broad Rock Boulevard,Richmond,VA,51760.0
+vha_652GA,130 Executive Center Parkway,Fredericksburg,VA,51630.0
+vha_652GB,10401 Spotsylvania Avenue,Fredericksburg,VA,51177.0
+vha_652GE,590 Peter Jefferson Parkway,Charlottesville,VA,51003.0
+vha_652GF,1746 East Atlantic Street,Emporia,VA,51595.0
+vha_652GG,1201 Broad Rock Boulevard,Richmond,VA,51760.0
+vha_652GH,1201 Broad Rock Boulevard,Richmond,VA,51760.0
+vha_653,913 Northwest Garden Valley Boulevard,Roseburg,OR,41019.0
+vha_653BY,3355 Chad Drive,Eugene,OR,41039.0
+vha_653GA,2191 Marion Street,North Bend,OR,41011.0
+vha_653GB,840 Railroad Street,Brookings,OR,41015.0
+vha_653QA,211 East 7th Avenue,Eugene,OR,41039.0
+vha_654,975 Kirman Avenue,Reno,NV,32031.0
+vha_654GB,1330 Waterloo Lane,Gardnerville,NV,32005.0
+vha_654GC,1020 New River Parkway,Fallon,NV,32001.0
+vha_654GD,110 Bella Way,Susanville,CA,6035.0
+vha_654GE,1201 Corporate Boulevard,Reno,NV,32031.0
+vha_654GF,1140 Selmi Drive,Reno,NV,32031.0
+vha_654QA,2295 Kietzke Lane,Reno,NV,32031.0
+vha_654QB,350 Capitol Hill Avenue,Reno,NV,32031.0
+vha_654QC,3298 Traders Way,Winnemucca,NV,32013.0
+vha_654QD,3674 South Virginia Street,Reno,NV,32031.0
+vha_655,1500 Weiss Street,Saginaw,MI,26145.0
+vha_655GA,2782 South Otsego Avenue,Gaylord,MI,26137.0
+vha_655GB,701 US Highway 31 South,Traverse City,MI,26055.0
+vha_655GC,5671 Skeel Avenue,Oscoda,MI,26069.0
+vha_655GD,180 North State Street,Alpena,MI,26007.0
+vha_655GE,11775 North Isabella Road,Clare,MI,26073.0
+vha_655GF,1142 South Van Dyke Road,Bad Axe,MI,26063.0
+vha_655GG,1909 North Mitchell Street,Cadillac,MI,26165.0
+vha_655GH,14540 Mackinaw Highway,Mackinaw City,MI,26031.0
+vha_655GI,1680 Hartwick Pines Road,Grayling,MI,26039.0
+vha_655QA,4241 Barnard Road,Saginaw,MI,26145.0
+vha_656,4801 Veterans Drive,St. Cloud,MN,27145.0
+vha_656GA,722 Northwest 7th Street,Brainerd,MN,27035.0
+vha_656GB,1025 North 13th Street,Montevideo,MN,27023.0
+vha_656GC,515 22nd Avenue East,Alexandria,MN,27041.0
+vha_656QA,4801 Veterans Drive,St. Cloud,MN,27145.0
+vha_657,915 North Grand Boulevard,St. Louis,MO,29510.0
+vha_657A0,1 Jefferson Barracks Drive,St. Louis,MO,29189.0
+vha_657A4,1500 North Westwood Boulevard,Poplar Bluff,MO,29023.0
+vha_657A5,2401 West Main Street,Marion,IL,17199.0
+vha_657GA,1190 Fortune Boulevard,Shiloh,IL,17163.0
+vha_657GB,6854 Parker Road,Florissant,MO,29189.0
+vha_657GD,844 Waterbury Falls Drive,O'Fallon,MO,29183.0
+vha_657GF,1801 East State Route K,West Plains,MO,29091.0
+vha_657GG,2420 Linwood Drive,Paragould,AR,5055.0
+vha_657GH,3051 William Street,Cape Girardeau,MO,29031.0
+vha_657GI,1580 West Columbia Street,Farmington,MO,29187.0
+vha_657GJ,6211 East Waterford Boulevard,Evansville,IN,18163.0
+vha_657GK,4101 North Water Tower Place,Mount Vernon,IL,17081.0
+vha_657GL,2620 Perkins Creek Drive,Paducah,KY,21145.0
+vha_657GM,1011 Ford Avenue,Effingham,IL,17049.0
+vha_657GO,926 Veterans Drive,Hanson,KY,21107.0
+vha_657GP,3400 New Hartford Road,Owensboro,KY,21059.0
+vha_657GQ,1813 Willow Street,Vincennes,IN,18083.0
+vha_657GR,1253 Paris Road,Mayfield,KY,21083.0
+vha_657GS,1627 A Roy Drive,Washington,MO,29071.0
+vha_657GT,1130 East Walnut Street,Carbondale,IL,17077.0
+vha_657GU,608 Rollie Moore Drive,Harrisburg,IL,17165.0
+vha_657GV,903 South Kings Highway,Sikeston,MO,29201.0
+vha_657GW,300 Camp Road,Pocahontas,AR,5121.0
+vha_657GX,2727 Washington Avenue,St. Louis,MO,29510.0
+vha_657GY,4974 Manchester Avenue,St. Louis,MO,29510.0
+vha_657QA,3615 Olive Street,St. Louis,MO,29510.0
+vha_657QB,2600 Washington Boulevard,St. Louis,MO,29510.0
+vha_657QC,1301 Enterprise Way,Marion,IL,17199.0
+vha_657QD,3403 Heartland Street,Marion,IL,17199.0
+vha_657QE,310 West Losey Street,Scott Air Force Base,IL,17163.0
+vha_658,1970 Roanoke Boulevard,Salem,VA,51775.0
+vha_658GA,388 Ben Bolt Avenue,Tazewell,VA,51185.0
+vha_658GB,705 Piney Forest Road,Danville,VA,51590.0
+vha_658GC,1600 Lakeside Drive,Lynchburg,VA,51680.0
+vha_658GD,102 Lacy B. King Way,Staunton,VA,51790.0
+vha_658GE,165 Peppers Ferry Road,Wytheville,VA,51197.0
+vha_659,1601 Brenner Avenue,Salisbury,NC,37159.0
+vha_659BY,1695 Kernersville Medical Parkway,Kernersville,NC,37067.0
+vha_659BZ,3506 West Tyvola Road,Charlotte,NC,37119.0
+vha_659GA,8601 University East Drive,Charlotte,NC,37119.0
+vha_660,500 Foothill Boulevard,Salt Lake City,UT,49035.0
+vha_660GA,500 South 11th Avenue,Pocatello,ID,16005.0
+vha_660GB,982 Chambers Street,South Ogden,UT,49057.0
+vha_660GD,245 West 200 North,Roosevelt,UT,49013.0
+vha_660GE,1443 West 800 North,Orem,UT,49049.0
+vha_660GG,230 North 1680 East,St. George,UT,49053.0
+vha_660GJ,2750 South 5600 West,West Valley City,UT,49035.0
+vha_660GK,2719 Argent Avenue,Elko,NV,32007.0
+vha_660QA,640 South Woodruff Avenue,Idaho Falls,ID,16019.0
+vha_660QB,189 South 600 West,Price,UT,49007.0
+vha_660QC,5957 Fashion Point Drive,South Ogden,UT,49057.0
+vha_662,4150 Clement Street,San Francisco,CA,6075.0
+vha_662GA,3841 Brickway Boulevard,Santa Rosa,CA,6097.0
+vha_662GC,930 West Harris Street,Eureka,CA,6023.0
+vha_662GD,630 Kings Court,Ukiah,CA,6045.0
+vha_662GE,1001 Sneath Lane,San Bruno,CA,6081.0
+vha_662GF,401 3rd Street,San Francisco,CA,6075.0
+vha_662GG,15145 Lakeshore Drive,Clearlake,CA,6033.0
+vha_663,1660 South Columbian Way,Seattle,WA,53033.0
+vha_663A4,9600 Veterans Drive Southwest,Tacoma,WA,53053.0
+vha_663GA,13033 Bel-Red Road,Bellevue,WA,53033.0
+vha_663GB,9177 Ridgetop Boulevard NW,Silverdale,WA,53035.0
+vha_663GC,307 South 13th Street,Mount Vernon,WA,53057.0
+vha_663GD,151 Northeast Hampe Way,Chehalis,WA,53041.0
+vha_663GE,1114 Georgiana Street,Port Angeles,WA,53009.0
+vha_663GF,34617 11th Place South,Federal Way,WA,53033.0
+vha_663GG,12360 Lake City Way Northeast,Seattle,WA,53033.0
+vha_663HK,9600 Veterans Drive Southwest,Tacoma,WA,53053.0
+vha_664,3350 La Jolla Village Drive,San Diego,CA,6073.0
+vha_664BV,2121 San Diego Avenue,San Diego,CA,6073.0
+vha_664BY,8810 Rio San Diego Drive,San Diego,CA,6073.0
+vha_664GA,1115 South 4th Street,El Centro,CA,6025.0
+vha_664GB,1300 Rancho del Oro Drive,Oceanside,CA,6073.0
+vha_664GC,865 3rd Avenue,Chula Vista,CA,6073.0
+vha_664GD,815 East Pennsylvania Avenue,Escondido,CA,6073.0
+vha_664QA,8989 Rio San Diego Drive,San Diego,CA,6073.0
+vha_666,1898 Fort Road,Sheridan,WY,56033.0
+vha_666GB,4140 South Poplar Street,Casper,WY,56025.0
+vha_666GC,2300 Rose Lane,Riverton,WY,56013.0
+vha_666GD,1432 Rumsey Avenue,Cody,WY,56029.0
+vha_666GE,604 Express Drive,Gillette,WY,56005.0
+vha_666GF,1401 Gateway Boulevard,Rock Springs,WY,56037.0
+vha_666QA,125 South Washington Street,Afton,WY,56023.0
+vha_666QB,1565 South Highway 150,Evanston,WY,56041.0
+vha_666QC,510 South 15th Street,Worland,WY,56043.0
+vha_667,510 East Stoner Avenue,Shreveport,LA,22017.0
+vha_667GA,910 Realtor Road,Texarkana,AR,5091.0
+vha_667GB,1691 Bienville Drive,Monroe,LA,22073.0
+vha_667GC,1005 North Eastman Road,Longview,TX,48183.0
+vha_667QA,3000 Knight Street,Shreveport,LA,22017.0
+vha_668,4815 North Assembly Street,Spokane,WA,53063.0
+vha_668GA,2530 Chester Kimm Road,Wenatchee,WA,53007.0
+vha_668GB,915 West Emma Avenue,Coeur d'Alene,ID,16055.0
+vha_668HK,4815 North Assembly Street,Spokane,WA,53063.0
+vha_668QB,211 East 2nd Street,Libby,MT,30053.0
+vha_668QD,30410 Highway 200,Ponderay,ID,16017.0
+vha_668QE,705 West 2nd Avenue,Spokane,WA,53063.0
+vha_671,7400 Merton Minter Boulevard,San Antonio,TX,48029.0
+vha_671A4,3600 Memorial Boulevard,Kerrville,TX,48265.0
+vha_671BY,5788 Eckert Road,San Antonio,TX,48029.0
+vha_671GB,1908 North Laurent Street,Victoria,TX,48469.0
+vha_671GF,4610 East Southcross Boulevard,San Antonio,TX,48029.0
+vha_671GH,302 South Hillside Drive,Beeville,TX,48025.0
+vha_671GK,4318 Woodcock Drive,San Antonio,TX,48029.0
+vha_671GK01,2391 Northeast Loop 410,San Antonio,TX,48029.0
+vha_671GK02,1714 Southwest Military Drive,San Antonio,TX,48029.0
+vha_671GK03,4243 East Southcross Boulevard,San Antonio,TX,48029.0
+vha_671GL,705 Landa Street,New Braunfels,TX,48091.0
+vha_671GN,526 East Court Street,Seguin,TX,48187.0
+vha_671GO,17440 Henderson Pass,San Antonio,TX,48029.0
+vha_671GP,4522 Fredricksburg Road,San Antonio,TX,48029.0
+vha_671GQ,4350 Lockhill-Selma Road,San Antonio,TX,48029.0
+vha_671GR,16019 Nacogdoches Road,San Antonio,TX,48029.0
+vha_671QA,3600 Memorial Boulevard,Kerrville,TX,48265.0
+vha_671QB,8410 Data Point Drive,San Antonio,TX,48029.0
+vha_672,10 Calle Casia,San Juan,PR,72127.0
+vha_672B0,1010 Paseo Del Veterano,Ponce,PR,72113.0
+vha_672BZ,345 Avenida Hostos,Mayaguez,PR,72097.0
+vha_672GA,10553 Kingshill,St. Croix,VI,78010.0
+vha_672GB,50 Estates Thomas,Saint Thomas,VI,78030.0
+vha_672GC,Avenida VÃ­ctor Rojas II,Arecibo,PR,72013.0
+vha_672GD,"PR-3, Kilometers 54.9",Pueblo Ward,PR,
+vha_672GE,850 Calle Arnaldo Bristol,Guayama,PR,72057.0
+vha_672QA,Jose de Diego Street,Comerio,PR,72045.0
+vha_672QB,Calle Isaac Gonzalez Esquina Ledesma,Utuado,PR,72141.0
+vha_672QC,Road 997,Vieques,PR,72147.0
+vha_673,13000 Bruce B. Downs Boulevard,Tampa,FL,12057.0
+vha_673BV,4700 North Habana Avenue,Tampa,FL,12057.0
+vha_673BZ,9912 Little Road,New Port Richey,FL,12101.0
+vha_673GB,4237 South Pipkin Road,Lakeland,FL,12105.0
+vha_673GC,14540 Cortez Boulevard,Brooksville,FL,12053.0
+vha_673GF,6937 Medical View Lane,Zephyrhills,FL,12101.0
+vha_673GG,12920 Summerfield Crossing Boulevard,Riverview,FL,12057.0
+vha_673GH,2804 West Marc Knighton Court,Lecanto,FL,12017.0
+vha_673QA,14014 North 46th Street,Tampa,FL,12057.0
+vha_673QB,10770 North 46th Street,Tampa,FL,12057.0
+vha_673QC,4231 South Pipkin Road,Lakeland,FL,12105.0
+vha_673QD,5138 Deer Park Boulevard,New Port Richey,FL,12101.0
+vha_673QE,110210 US Highway 19 North,New Port Richey,FL,12101.0
+vha_673QF,14517 Bruce B. Downs Boulevard,Tampa,FL,12057.0
+vha_673QG,7701 Little Road,New Port Richey,FL,12101.0
+vha_673QH,12210 Bruce B. Downs Boulevard,Tampa,FL,12057.0
+vha_673QI,6938 Medical View Lane,Zephyrhills,FL,12101.0
+vha_673QJ,13515 Lake Terrace Lane,Tampa,FL,12057.0
+vha_673QK,13000 Bruce B. Downs Boulevard,Tampa,FL,12057.0
+vha_673QL,13000 Bruce B. Downs Boulevard,Tampa,FL,12057.0
+vha_674,1901 Veterans Memorial Drive,Temple,TX,48027.0
+vha_674A4,4800 Memorial Drive,Waco,TX,48309.0
+vha_674BY,7901 Metropolis Drive,Austin,TX,48453.0
+vha_674GA,2000 South Loop 256,Palestine,TX,48001.0
+vha_674GB,2600 Memorial Park Drive,Brownwood,TX,48049.0
+vha_674GC,1651 Rock Prairie Road,College Station,TX,48041.0
+vha_674GD,1401 Medical Parkway,Cedar Park,TX,48491.0
+vha_674GF,4501 South General Bruce Drive,Temple,TX,48027.0
+vha_674HB,2 Saint Marks Place,LaGrange,TX,48149.0
+vha_675,13800 Veterans Way,Orlando,FL,12095.0
+vha_675GA,2900 Veterans Way,Viera,FL,12009.0
+vha_675GB,551 National Health Care Drive,Daytona Beach,FL,12127.0
+vha_675GC,2285 North Central Avenue,Kissimmee,FL,12097.0
+vha_675GD,1200 Deltona Boulevard,Deltona,FL,12127.0
+vha_675GE,1390 East Burleigh Boulevard,Tavares,FL,12069.0
+vha_675GF,805 Oakley Seaver Drive,Clermont,FL,12069.0
+vha_675GG,5201 Raymond Street,Orlando,FL,12095.0
+vha_675QB,3731 South Clyde Morris Boulevard,Port Orange,FL,12127.0
+vha_675QC,1821 Business Park Boulevard,Daytona Beach,FL,12127.0
+vha_675QD,925 South Semoran Boulevard,Winter Park,FL,12095.0
+vha_675QE,5201 Raymond Street,Orlando,FL,12095.0
+vha_675QG,5200 Babcock Street Northeast,Palm Bay,FL,12009.0
+vha_676,500 East Veterans Street,Tomah,WI,55081.0
+vha_676GA,515 South 32 Avenue,Wausau,WI,55073.0
+vha_676GC,2600 State Road,La Crosse,WI,55063.0
+vha_676GD,700 Hale Street,Wisconsin Rapids,WI,55141.0
+vha_676GE,8 Johnson Street,Owen,WI,55019.0
+vha_676QA,500 East Veterans Street,Tomah,WI,55081.0
+vha_678,3601 South Sixth Avenue,Tucson,AZ,4019.0
+vha_678GA,101 North Coronado Drive,Sierra Vista,AZ,4003.0
+vha_678GB,3111 South 4th Avenue,Yuma,AZ,4027.0
+vha_678GC,1876 East Sabin Drive,Casa Grande,AZ,4021.0
+vha_678GD,355 North 8th Avenue,Safford,AZ,4009.0
+vha_678GE,380 West Vista Hermosa Drive,Green Valley,AZ,4019.0
+vha_678GF,2945 West Ina Road,Tucson,AZ,4019.0
+vha_678GG,7395 South Houghton Road,Tucson,AZ,4019.0
+vha_678QA,157 North Coronado Drive,Sierra Vista,AZ,4003.0
+vha_678QB,1179 East Cottonwood Lane,Casa Grande,AZ,4021.0
+vha_679,3701 Loop Road East,Tuscaloosa,AL,1125.0
+vha_679GA,206 Vaughn Memorial Drive,Selma,AL,1047.0
+vha_679HK,3701 Loop Road East,Tuscaloosa,AL,1125.0
+vha_687,77 Wainwright Drive,Walla Walla,WA,53071.0
+vha_687GA,825 Jadwin Avenue,Richland,WA,53005.0
+vha_687GB,1630 23rd Avenue,Lewiston,ID,16069.0
+vha_687GC,202 12th Street,La Grande,OR,41061.0
+vha_687HA,717 Fruitvale Boulevard,Yakima,WA,53077.0
+vha_687QB,2 Marine Drive,Boardman,OR,41049.0
+vha_687QC,401 Northeast 1st Street,Enterprise,OR,41063.0
+vha_688,"50 Irving Street, Northwest",Washington,DC,11001.0
+vha_688GA,9300 Dewitt Loop,Fort Belvoir,VA,51059.0
+vha_688GB,"820 Chesapeake Street, Southeast",Washington,DC,11001.0
+vha_688GD,29431 Charlotte Hall Road,Charlotte Hall,MD,24037.0
+vha_688GE,5801 Allentown Road,Camp Springs,MD,24033.0
+vha_688GF,15810 Gaither Drive,Gaithersburg,MD,24031.0
+vha_688GG,45870 East Run Boulevard,Lexington Park,MD,24037.0
+vha_688QA,1500 Franklin Street Northeast,Washington,DC,11001.0
+vha_689,950 Campbell Avenue,West Haven,CT,9009.0
+vha_689A4,555 Willard Avenue,Newington,CT,9003.0
+vha_689GA,95 Scovill Street,Waterbury,CT,9009.0
+vha_689GB,1275 Summer Street,Stamford,CT,9001.0
+vha_689GC,1320 Main Street,Willimantic,CT,9015.0
+vha_689GD,115 Spencer Street,Winsted,CT,9005.0
+vha_689GE,7 Germantown Road,Danbury,CT,9001.0
+vha_689GF,200 Edison Road,Orange,CT,9009.0
+vha_689HC,4 Shaw's Cove,New London,CT,9011.0
+vha_689QA,114 Orange Avenue,West Haven,CT,9009.0
+vha_691,11301 Wilshire Boulevard,Los Angeles,CA,6037.0
+vha_691A4,16111 Plummer Street,Sepulveda,CA,6037.0
+vha_691GB,4440 Calle Real,Santa Barbara,CA,6083.0
+vha_691GC,1149 West 190th Street,Gardena,CA,6037.0
+vha_691GD,1801 Westwind Drive,Bakersfield,CA,6029.0
+vha_691GE,351 East Temple Street,Los Angeles,CA,6037.0
+vha_691GF,5426 East Olympic Boulevard,Commerce,CA,6037.0
+vha_691GG,340 East Avenue I,Lancaster,CA,6037.0
+vha_691GK,1288 Morro Street,San Luis Obispo,CA,6079.0
+vha_691GL,1550 East Main Street,Santa Maria,CA,6083.0
+vha_691GM,1690 Universal Circle Drive,Oxnard,CA,6111.0
+vha_691GP,7 North Foothill Boulevard,Arcadia,CA,6037.0
+vha_692,8495 Crater Lake Highway,White City,OR,41029.0
+vha_692GA,2225 North Eldorado Boulevard,Klamath Falls,OR,41035.0
+vha_692GB,1877 Williams Highway,Grants Pass,OR,41033.0
+vha_693,1111 East End Boulevard,Wilkes-Barre,PA,42079.0
+vha_693B4,3110 Hamilton Boulevard,Allentown,PA,42077.0
+vha_693GA,1537 North Elmira Street,Sayre,PA,42015.0
+vha_693GB,1705 Warren Avenue,Williamsport,PA,42081.0
+vha_693GC,Tobyhanna Army Depot,Tobyhanna,PA,42089.0
+vha_693GF,26 Columbia Mall Drive,Bloomsburg,PA,42037.0
+vha_693GG,701 Slate Belt Boulevard,Bangor,PA,42095.0
+vha_693QA,600 Maple Avenue,Honesdale,PA,42127.0
+vha_695,5000 West National Avenue,Milwaukee,WI,55079.0
+vha_695BY,10 Tri-Park Way,Appleton,WI,55087.0
+vha_695GA,21425 Spring Street,Union Grove,WI,55101.0
+vha_695GC,1205 North Avenue,Cleveland,WI,55071.0
+vha_695GD,2851 University Avenue,Green Bay,WI,55009.0
+vha_695QA,1818 North Martin Luther King Drive,Milwaukee,WI,55079.0
+vha_740,2601 Veterans Drive,Harlingen,TX,48061.0
+vha_740GA,2106 Treasure Hills Boulevard,Harlingen,TX,48061.0
+vha_740GB,901 East Hackberry Avenue,McAllen,TX,48215.0
+vha_740GC,5283 Old Brownsville Road,Corpus Christi,TX,48355.0
+vha_740GD,4602 North Bartlett Avenue,Laredo,TX,48479.0
+vha_740GH,205 South Enterprize Parkway,Corpus Christi,TX,48355.0
+vha_740GI,5277 Old Brownsville Road,Corpus Christi,TX,48355.0
+vha_740GJ,3900 North 10th Street,McAllen,TX,48215.0
+vha_740QA,2601 Veterans Drive,Harligen,TX,48061.0
+vha_756,5001 North Piedras Street,El Paso,TX,48141.0
+vha_756GA,3401 Del Rey Boulevard,Las Cruces,NM,35013.0
+vha_756GB,2400 Trawood Drive,El Paso,TX,48141.0
+vha_756GC,1870 Northwestern Drive,El Paso,TX,48141.0
+vha_756GD,5229 Sanders Avenue,El Paso,TX,48141.0
+vha_756QA,350 Revere Street,El Paso,TX,48141.0
+vha_756QB,1250-B East Cliff Drive,El Paso,TX,48141.0
+vha_757,420 North James Road,Columbus,OH,39049.0
+vha_757GA,2800 Maple Avenue,Zanesville,OH,39119.0
+vha_757GB,5775 North Meadows Drive,Grove City,OH,39049.0
+vha_757GC,1203 Delaware Avenue,Marion,OH,39101.0
+vha_757GD,1855 West Main Street,Newark,OH,39089.0
+vha_757QA,420 North James Road,Columbus,OH,39049.0
+vha_757QB,420 North James Road,Columbus,OH,39049.0
+vha_757QC,2720 Airport Drive,Columbus,OH,39049.0
