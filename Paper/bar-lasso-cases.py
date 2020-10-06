@@ -9,6 +9,21 @@ data = [(14.79958071, 'Population Ages 55-64', '-'), (10.12717474, 'Population I
 # height = [3, 12, 5, 18, 45]
 # bars = ('A', 'B', 'C', 'D', 'E')
 
+SMALL_SIZE = 12
+MEDIUM_SIZE = 14
+BIGGER_SIZE = 16
+FIG_SIZE = 18
+
+
+plt.rc('font', size=MEDIUM_SIZE)         # controls default text sizes
+plt.rc('axes', labelsize=18)    # fontsize of the x and y labels
+plt.rc('xtick', labelsize=SMALL_SIZE)    # fontsize of the tick labels
+plt.rc('ytick', labelsize=16)    # fontsize of the tick labels
+#plt.rc('legend', fontsize=SMALL_SIZE)    # legend fontsize
+plt.rc('figure', titlesize=20)  # fontsize of the figure title
+plt.rc('axes', titlesize=20)     # fontsize of the axes title
+
+
 height = [item[0] for item in data]
 height.reverse()
 bars = [item[1] for item in data]
